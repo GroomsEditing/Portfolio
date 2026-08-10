@@ -1,0 +1,46 @@
+{%- comment -%}
+	Book card. Drop as many of these on a page as you like.
+
+	Usage:
+
+	{% capture before %}
+	Text as it was before the edit.
+	{% endcapture %}
+	{% capture after %}
+	Text as it reads after the edit.
+	{% endcapture %}
+	{% include book-card.html
+		title="Book Title"
+		author="Author Name"
+		pages="320"
+		role="Line Editor"
+		edit="Line Edit"
+		before=before
+		after=after %}
+{%- endcomment -%}
+<div class="book-card box">
+	<div class="book-card-header">
+		<h3 class="book-card-title">{{ include.title }}</h3>
+		<span class="book-card-author">by {{ include.author }}</span>
+	</div>
+
+	<ul class="book-card-meta">
+		<li><strong>Page Count</strong> {{ include.pages }}</li>
+		<li><strong>Role</strong> {{ include.role }}</li>
+		<li><strong>Edit</strong> {{ include.edit }}</li>
+	</ul>
+
+	<details class="book-card-example">
+		<summary>Example</summary>
+		<div class="book-card-compare">
+			<div class="book-card-pane">
+				<h4>Before</h4>
+				<div class="book-card-text">{{ include.before | markdownify }}</div>
+			</div>
+			<div class="book-card-pane">
+				<h4>After</h4>
+				<div class="book-card-text">{{ include.after | markdownify }}</div>
+			</div>
+		</div>
+	</details>
+</div>
