@@ -3,6 +3,9 @@
 
 	Usage:
 
+	{% capture edit %}
+	Can run a paragraph or more describing the edit.
+	{% endcapture %}
 	{% capture before %}
 	Text as it was before the edit.
 	{% endcapture %}
@@ -11,24 +14,33 @@
 	{% endcapture %}
 	{% include book-card.html
 		title="Book Title"
+		book_url="https://example.com/book"
 		author="Author Name"
+		author_url="https://example.com/author"
 		pages="320"
 		role="Line Editor"
-		edit="Line Edit"
+		edit=edit
 		before=before
 		after=after %}
+
+	book_url and author_url are optional; the title/author render as
+	plain text when they're left out.
 {%- endcomment -%}
 <div class="book-card box">
 	<div class="book-card-header">
-		<h3 class="book-card-title">{{ include.title }}</h3>
-		<span class="book-card-author">by {{ include.author }}</span>
+		<h3 class="book-card-title">{% if include.book_url %}<a href="{{ include.book_url }}">{{ include.title }}</a>{% else %}{{ include.title }}{% endif %}</h3>
+		<span class="book-card-author">by {% if include.author_url %}<a href="{{ include.author_url }}">{{ include.author }}</a>{% else %}{{ include.author }}{% endif %}</span>
 	</div>
 
 	<ul class="book-card-meta">
 		<li><strong>Page Count</strong> {{ include.pages }}</li>
 		<li><strong>Role</strong> {{ include.role }}</li>
-		<li><strong>Edit</strong> {{ include.edit }}</li>
 	</ul>
+
+	<div class="book-card-edit">
+		<strong>Edit</strong>
+		<div class="book-card-edit-text">{{ include.edit | markdownify }}</div>
+	</div>
 
 	<details class="book-card-example">
 		<summary>Example</summary>
