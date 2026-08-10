@@ -3,7 +3,7 @@ title: Grooms Editing
 subtitle: Achieve engaging creative stories.
 email: groomssamuelr@email.com
 description: To be updated
-baseurl: "/portfolio" # the subpath of your site, e.g. /blog
+baseurl: "/Portfolio" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Sam Grooms
 street_address: 
