@@ -420,20 +420,19 @@ Offered the idea of re-describing each repeat character in a new light from a ne
 Chapter 2 (Deemos, the Master, and Aeros Fall 531) 
 
  
+Slipping from the shadows, the drow maiden appeared as a wraith, shaded, and menacing. 
 
-     Slipping from the shadows, the drow maiden appeared as a wraith, shaded, and menacing. 
+“He is here,” she hissed. Her slender features veiled beneath her cloak; her face obscured by the folds of her cowl.  
 
-     “He is here,” she hissed. Her slender features veiled beneath her cloak; her face obscured by the folds of her cowl.  
+Jaisia’s sudden presence startled Deemos. He gathered himself and stood. He towered over her, yet she did not flinch.. Deemos fixed his calloused eyes on her. “You were not gone long.” 
 
-     Jaisia’s sudden presence startled Deemos. He gathered himself and stood. He towered over her, yet she did not flinch.. Deemos fixed his calloused eyes on her. “You were not gone long.” 
+“I was easy,” she confessed, shrugging her shoulders. “I followed a trail of ale.” 
 
-     “I was easy,” she confessed, shrugging her shoulders. “I followed a trail of ale.” 
+“Is he sober?” 
 
-     “Is he sober?” 
+“Hard to tell,” she admitted, her voice hard and toneless. “He smells.” 
 
-     “Hard to tell,” she admitted, her voice hard and toneless. “He smells.” 
-
-     “No matter,” Deemos chuckled, low and wicked. “The kobold will meet the Master now.”  
+“No matter,” Deemos chuckled, low and wicked. “The kobold will meet the Master now.”  
 
  
 
@@ -441,39 +440,39 @@ Chapter 2 (Deemos, the Master, and Aeros Fall 531)
 
  
 
-     Deemos suffered Belhaaz’ impatience. Rhythmic tapping from the talons grew louder indicating a building frustration. Belhaaz was anxious to capture his heir after decades of searching. As the war raged upon the Southern Realms, Deemos was exasperated by this enduring infatuation to apprehend a child Belhaaz never met. He failed to grasp the child’s importance. Deemos yearned for Belhaaz’ complete concentration on prosecuting the war not locating a long-lost daughter. Deemos desired for Belhaaz to personally lead the armies positioned to deliver knockout blows against the Highlands and Beth Amen. Once the barbarians and Horse Tribes were destroyed, the master’s forces would lay waste to the rest of the Southern Realms nations. Deemos paused near the dais until Belhaaz summoned him on. 
+Deemos suffered Belhaaz’ impatience. Rhythmic tapping from the talons grew louder indicating a building frustration. Belhaaz was anxious to capture his heir after decades of searching. As the war raged upon the Southern Realms, Deemos was exasperated by this enduring infatuation to apprehend a child Belhaaz never met. He failed to grasp the child’s importance. Deemos yearned for Belhaaz’ complete concentration on prosecuting the war not locating a long-lost daughter. Deemos desired for Belhaaz to personally lead the armies positioned to deliver knockout blows against the Highlands and Beth Amen. Once the barbarians and Horse Tribes were destroyed, the master’s forces would lay waste to the rest of the Southern Realms nations. Deemos paused near the dais until Belhaaz summoned him on. 
 
-     Belhaaz lifted his gaze to meet Deemos’. “Aeros?” 
+Belhaaz lifted his gaze to meet Deemos’. “Aeros?” 
 
-     “Yes, my Master,” Deemos confirmed, his bow low . 
+ “Yes, my Master,” Deemos confirmed, his bow low . 
 
-     Deemos heard the master exhale in satisfaction, saw his yellow eyes flicker in gratification. “Bring him in.” 
+Deemos heard the master exhale in satisfaction, saw his yellow eyes flicker in gratification. “Bring him in.” 
 
-     Deemos motioned for the Odjahary guards to open the door. Deemos stood uncomfortably near the dais as the kobold sauntered across the bridge. By his gate, by his body language it appeared that he was in charge not the Master. Shadows cast by the torches lengthened his diminutive stature. From a distance, it was apparent this kobold was dissimilar to his weak-minded kin. He was vain and arrogant and brash. Qualities Belhaaz admired. 
+Deemos motioned for the Odjahary guards to open the door. Deemos stood uncomfortably near the dais as the kobold sauntered across the bridge. By his gate, by his body language it appeared that he was in charge not the Master. Shadows cast by the torches lengthened his diminutive stature. From a distance, it was apparent this kobold was dissimilar to his weak-minded kin. He was vain and arrogant and brash. Qualities Belhaaz admired. 
 
-     Until he met Aeros Askin several years past, Deemos doubted the kobold’s abilities and his reputation as a bounty hunter. Deemos detected a cruelness lurking in his yellow eyes, beady and narrow set. Halfling sized but lean and wiry, his muscles coiled tight as a spring. Fierce and determined despite his size, his smile revealed rows of jagged teeth set inside a dragon-like snout. Kobolds were the least of the lizard people and somehow Aeros, through trickery or thievery, managed to acquire the ability to control black dragons, to bend them to his will. Known among sinister factions by the name “Wyvern Charmer”, Aeros and his fearsome squad rode black dragons earning their living as recovery agents, selling their services to anyone who could afford their expensive talents. 
+Until he met Aeros Askin several years past, Deemos doubted the kobold’s abilities and his reputation as a bounty hunter. Deemos detected a cruelness lurking in his yellow eyes, beady and narrow set. Halfling sized but lean and wiry, his muscles coiled tight as a spring. Fierce and determined despite his size, his smile revealed rows of jagged teeth set inside a dragon-like snout. Kobolds were the least of the lizard people and somehow Aeros, through trickery or thievery, managed to acquire the ability to control black dragons, to bend them to his will. Known among sinister factions by the name “Wyvern Charmer”, Aeros and his fearsome squad rode black dragons earning their living as recovery agents, selling their services to anyone who could afford their expensive talents. 
 
-     Deemos listened to the clawed feet rasp over the stone, heard the bounty hunter’s black leather armor creak and groan as he neared, and detected the black dragon scales stitched into the shoulders glimmering in the torch light. A pendent affixed to a silver chain hung around his neck, a talisman conveying upon him the power to master the dragons. The charm, a black dragon sculpted from tourmaline and two ruby eyes that seemed to follow your every move. Deemos raised a hand halting the kobold short of the throne. Facing his master again, Deemos waited for permission to speak. 
+Deemos listened to the clawed feet rasp over the stone, heard the bounty hunter’s black leather armor creak and groan as he neared, and detected the black dragon scales stitched into the shoulders glimmering in the torch light. A pendent affixed to a silver chain hung around his neck, a talisman conveying upon him the power to master the dragons. The charm, a black dragon sculpted from tourmaline and two ruby eyes that seemed to follow your every move. Deemos raised a hand halting the kobold short of the throne. Facing his master again, Deemos waited for permission to speak. 
 
-     An ominous grin spread upon Belhaaz’ capricious face. Ignoring Deemos, he leaned forward motioning the kobold closer. Aeros Askin approached clutching a leather helmet in one hand and a riding crop in the other. He bowed low waiting for the master to speak. 
+An ominous grin spread upon Belhaaz’ capricious face. Ignoring Deemos, he leaned forward motioning the kobold closer. Aeros Askin approached clutching a leather helmet in one hand and a riding crop in the other. He bowed low waiting for the master to speak. 
 
-     “Aeros Askin the Wyvern Charmer. Once more, I am in need of your services,” Belhaaz spoke, in a low rumble. 
+“Aeros Askin the Wyvern Charmer. Once more, I am in need of your services,” Belhaaz spoke, in a low rumble. 
 
-     “Proud to serve my Master again,” Aeros proclaimed. 
+“Proud to serve my Master again,” Aeros proclaimed. 
 
-     “My heir, Aeros Askin. Bring her to me alive,” Belhaaz demanded. “You can locate her in Prosper inside the Stowan Freeholds.” 
+“My heir, Aeros Askin. Bring her to me alive,” Belhaaz demanded. “You can locate her in Prosper inside the Stowan Freeholds.” 
 
-     “Of course, my Master.” Aeros bowed again, spun on his heels and strutted from Belhaaz’ throne.   
+“Of course, my Master.” Aeros bowed again, spun on his heels and strutted from Belhaaz’ throne.   
 
-     “Aeros,” Belhaaz bellowed. “She is no good to me dead.” 
+“Aeros,” Belhaaz bellowed. “She is no good to me dead.” 
 
-     Aeros stopped, slowly he faced Belhaaz letting the moment hang in the humid air. A toothy sneer, condescending and arrogant, swept over his snout. “Alive, yes master.” 
+Aeros stopped, slowly he faced Belhaaz letting the moment hang in the humid air. A toothy sneer, condescending and arrogant, swept over his snout. “Alive, yes master.” 
 
-     Aeros pivoted and resumed his exit. Trailing the kobold, Deemos followed Aeros to the courtyard. Deemos stood at a distance and observed.  
+Aeros pivoted and resumed his exit. Trailing the kobold, Deemos followed Aeros to the courtyard. Deemos stood at a distance and observed.  
 
-     The dragon, sleek and raven hued, curled its lips exposing razor-sharp teeth. A whisp of steam escaped from flaring nostrils and it emitted a growl from somewhere deep inside its bowels, low and gravely, greeted the Wyvern Charmer. Deemos watched him gracefully bound aboard his dragon. Using a series of leather straps, buckles, and belts, Aeros secured himself to the saddle then donned his helmet and set his googles in place. An enthusiastic smack from the riding crop urged the dragon ahead. The massive black lizard unfolded its leathery wings and began beating the air into submission lifting its massive girth off the ground.  
+The dragon, sleek and raven hued, curled its lips exposing razor-sharp teeth. A whisp of steam escaped from flaring nostrils and it emitted a growl from somewhere deep inside its bowels, low and gravely, greeted the Wyvern Charmer. Deemos watched him gracefully bound aboard his dragon. Using a series of leather straps, buckles, and belts, Aeros secured himself to the saddle then donned his helmet and set his googles in place. An enthusiastic smack from the riding crop urged the dragon ahead. The massive black lizard unfolded its leathery wings and began beating the air into submission lifting its massive girth off the ground.  
 
-     Squinting into the sun, Deemos watched Aeros and his dragon clear the walls, gain altitude then bank southeast. Another fool in the master’s service.  
+Squinting into the sun, Deemos watched Aeros and his dragon clear the walls, gain altitude then bank southeast. Another fool in the master’s service.  
 {% endcapture %}
 {% capture after_ripleys %}
 Chapter Two 
@@ -484,73 +483,19 @@ Fall 531, Age of the Arch-Mage
 
  
 
-     A lone drow maiden slipped from the dimness, appearing as wraith, shaded and menacing. 
+A lone drow maiden slipped from the dimness, appearing as wraith, shaded and menacing. 
 
-     “He is here,” she hissed. Her slender features veiled beneath her cloak; her face obscured by the folds of her cowl. 
+“He is here,” she hissed. Her slender features veiled beneath her cloak; her face obscured by the folds of her cowl. 
 
-     Jaisia’s sudden presence startled Deemos. He took a second to gather himself, closed his book, and stood. He towered over her, yet she did not flinch. Deemos fixed his calloused eyes on her. “You were not gone long.” 
+Jaisia’s sudden presence startled Deemos. He took a second to gather himself, closed his book, and stood. He towered over her, yet she did not flinch. Deemos fixed his calloused eyes on her. “You were not gone long.” 
 
-     “It was easy,” she confessed, shrugging her shoulders. “I followed a trail of ale.” 
+“It was easy,” she confessed, shrugging her shoulders. “I followed a trail of ale.” 
 
-     “Is he sober?” 
+“Is he sober?” 
 
-     “Hard to tell,” she admitted, her voice hard and toneless. “He smells.” 
+“Hard to tell,” she admitted, her voice hard and toneless. “He smells.” 
 
-     “No matter,” Deemos chuckled, low and wicked. “The kobold will meet with the master now.” 
-
- 
-
-◊ ◊ ◊ 
-
- 
-
-     Deemos suffered Belhaaz’s impatience. Rhythmic tapping from the talons grew louder, indicating the demon’s building frustration. After decades of searching, Belhaaz longed to capture his heir. As the war raged upon the Southern Realms, Belhaaz’s enduring infatuation with a child he had never met exasperated Deemos. He failed to grasp the child’s importance. Deemos yearned for Belhaaz complete concentration in prosecuting the war, not locating a long-lost offspring. Deemos desired for Belhaaz to join the orc armies in the field. He longed for the master to lead the orcs to victory over the Highlands and Beth Amen. After destroying the Horse Tribes and barbarians, the master’s forces would lay waste to the rest of the Southern Realms nations. 
-
-     Deemos paused near the dais until Belhaaz summoned him on. Belhaaz seemed restless. He shifted his weight under the black robes concealing his hulking frame. A smug grin deformed his leathered face. 
-
-     Belhaaz lifted his gaze to meet Deemos’. “Aeros?” 
-
-     “Yes, my master,” Deemos confirmed, his bow low. 
-
-     Deemos heard the master exhale in satisfaction, saw his yellow eyes flicker in gratification. “Bring him in.” 
-
-     “Master, the kobold is -” 
-
-     “Drunk?” 
-
-     “Yes,” Deemos replied. “I recommend you find -” 
-
-     “Another?” Belhaaz erupted, his yellow eyes shuttered and furious. 
-
-     Deemos reeled back a step and held his tongue. 
-
-     “No! He is the best. Speak of this no more,” Belhaaz growled. 
-
-     Two Odjahary Legionnaires stood at the door. Their crimson skin, gray wings, and ashen armor shimmered in the torchlight. Deemos motioned for them to open the door. Deemos remained apprehensive, standing near the dais, watching the kobold saunter across the bridge. By his gate, by his body language, Aeros was in charge, not the master. Shadows cast by the torches lengthened his diminutive stature. From a distance, it was apparent this kobold had little in common with his weak-minded kin. He was vain and arrogant and brash. Qualities Belhaaz admired. 
-
-     Until he met Aeros Askin several years past, Deemos doubted the kobold’s abilities and his reputation as a bounty hunter. Deemos detected a cruelness lurking in his amber eyes, beady and narrow set. Halfling sized but lean and wiry, his muscles coiled tight as a spring. Fierce and determined despite his size, his sneer revealed rows of jagged teeth set inside a dragon-like snout. Kobolds were the least of the lizard people and somehow Aeros, through trickery or thievery, acquired the ability to control black dragons, to bend them to his will. Known among sinister factions by the name of Wyvern Charmer, Aeros and his fearsome squad rode black dragons, earning their living as recovery agents, selling their services to anyone who could afford their expensive talents. 
-
-     Deemos listened to the clawed feet rasp over the stone, heard the bounty hunter’s ebony leather armor creak and groan as he neared, and detected the black dragon scales stitched into the shoulders glimmering in the torchlight. A pendent affixed to a silver chain hung around his neck, a talisman conveying upon him the power to master the dragons. The charm, a black dragon sculpted from tourmaline and two ruby eyes that seemed to follow your every move. Deemos raised a hand, halting the kobold short of the throne. Facing his master again, Deemos waited for permission to speak. 
-
-     An ominous grin spread upon Belhaaz’s capricious face. Ignoring Deemos, he leaned forward, motioning the kobold closer. Aeros Askin approached, clutching a leather helmet in one hand and a riding crop in the other. He bowed low, waiting for the master to speak. 
-
-     “Aeros Askin the Wyvern Charmer. Once more, I require your services,” Belhaaz spoke in a low rumble. 
-
-     “Proud to serve my master again,” Aeros proclaimed. 
-
-     “My heir, Aeros Askin. Bring her to me alive,” Belhaaz demanded. “You can locate her in Prosper inside the Stowan Freeholds.” 
-
-     “Of course, my master.” The kobold bowed again, spun on his heels and strutted from Belhaaz’s throne. 
-
-     “Aeros,” Belhaaz bellowed. 
-
-     Aeros stopped and turned to face Belhaaz. 
-
-     “She is no good to me dead.” 
-
-     The kobold let the moment hang in the humid air. A toothy sneer, condescending and arrogant, deformed his snout into an ugly expression. “Alive, yes, my master.” 
-
-     Aeros pivoted and resumed his exit. 
+“No matter,” Deemos chuckled, low and wicked. “The kobold will meet with the master now.” 
 
  
 
@@ -558,9 +503,63 @@ Fall 531, Age of the Arch-Mage
 
  
 
-     Deemos followed Aeros into the courtyard. Deemos stood at a distance and observed. The dragon, sleek and raven hued, curled its lips, exposing razor-sharp teeth. A wisp of steam escaped from flaring nostrils and it emitted a growl from somewhere deep inside its bowels—low and dangerous, greeted the Wyvern Charmer. Deemos watched the kobold bound aboard his dragon in a single graceful leap. A series of leather straps, buckles, and belts secured Aeros to the saddle. He donned his helmet and set his googles in place. An enthusiastic smack from the riding crop urged the dragon ahead. The massive black lizard unfolded its leathery wings and began beating the air into submission, lifting its massive girth off the ground. 
+Deemos suffered Belhaaz’s impatience. Rhythmic tapping from the talons grew louder, indicating the demon’s building frustration. After decades of searching, Belhaaz longed to capture his heir. As the war raged upon the Southern Realms, Belhaaz’s enduring infatuation with a child he had never met exasperated Deemos. He failed to grasp the child’s importance. Deemos yearned for Belhaaz complete concentration in prosecuting the war, not locating a long-lost offspring. Deemos desired for Belhaaz to join the orc armies in the field. He longed for the master to lead the orcs to victory over the Highlands and Beth Amen. After destroying the Horse Tribes and barbarians, the master’s forces would lay waste to the rest of the Southern Realms nations. 
 
-     Deemos squinted into the sun as he watched Aeros and his dragon clear the walls, gain altitude, then bank southeast. Another fool in the master’s service. 
+Deemos paused near the dais until Belhaaz summoned him on. Belhaaz seemed restless. He shifted his weight under the black robes concealing his hulking frame. A smug grin deformed his leathered face. 
+
+Belhaaz lifted his gaze to meet Deemos’. “Aeros?” 
+
+“Yes, my master,” Deemos confirmed, his bow low. 
+
+Deemos heard the master exhale in satisfaction, saw his yellow eyes flicker in gratification. “Bring him in.” 
+
+“Master, the kobold is -” 
+
+"Drunk?” 
+
+“Yes,” Deemos replied. “I recommend you find -” 
+
+“Another?” Belhaaz erupted, his yellow eyes shuttered and furious. 
+
+Deemos reeled back a step and held his tongue. 
+
+“No! He is the best. Speak of this no more,” Belhaaz growled. 
+
+Two Odjahary Legionnaires stood at the door. Their crimson skin, gray wings, and ashen armor shimmered in the torchlight. Deemos motioned for them to open the door. Deemos remained apprehensive, standing near the dais, watching the kobold saunter across the bridge. By his gate, by his body language, Aeros was in charge, not the master. Shadows cast by the torches lengthened his diminutive stature. From a distance, it was apparent this kobold had little in common with his weak-minded kin. He was vain and arrogant and brash. Qualities Belhaaz admired. 
+
+Until he met Aeros Askin several years past, Deemos doubted the kobold’s abilities and his reputation as a bounty hunter. Deemos detected a cruelness lurking in his amber eyes, beady and narrow set. Halfling sized but lean and wiry, his muscles coiled tight as a spring. Fierce and determined despite his size, his sneer revealed rows of jagged teeth set inside a dragon-like snout. Kobolds were the least of the lizard people and somehow Aeros, through trickery or thievery, acquired the ability to control black dragons, to bend them to his will. Known among sinister factions by the name of Wyvern Charmer, Aeros and his fearsome squad rode black dragons, earning their living as recovery agents, selling their services to anyone who could afford their expensive talents. 
+
+Deemos listened to the clawed feet rasp over the stone, heard the bounty hunter’s ebony leather armor creak and groan as he neared, and detected the black dragon scales stitched into the shoulders glimmering in the torchlight. A pendent affixed to a silver chain hung around his neck, a talisman conveying upon him the power to master the dragons. The charm, a black dragon sculpted from tourmaline and two ruby eyes that seemed to follow your every move. Deemos raised a hand, halting the kobold short of the throne. Facing his master again, Deemos waited for permission to speak. 
+
+An ominous grin spread upon Belhaaz’s capricious face. Ignoring Deemos, he leaned forward, motioning the kobold closer. Aeros Askin approached, clutching a leather helmet in one hand and a riding crop in the other. He bowed low, waiting for the master to speak. 
+
+“Aeros Askin the Wyvern Charmer. Once more, I require your services,” Belhaaz spoke in a low rumble. 
+
+“Proud to serve my master again,” Aeros proclaimed. 
+
+“My heir, Aeros Askin. Bring her to me alive,” Belhaaz demanded. “You can locate her in Prosper inside the Stowan Freeholds.” 
+
+“Of course, my master.” The kobold bowed again, spun on his heels and strutted from Belhaaz’s throne. 
+
+“Aeros,” Belhaaz bellowed. 
+
+Aeros stopped and turned to face Belhaaz. 
+
+“She is no good to me dead.” 
+
+The kobold let the moment hang in the humid air. A toothy sneer, condescending and arrogant, deformed his snout into an ugly expression. “Alive, yes, my master.” 
+
+Aeros pivoted and resumed his exit. 
+
+ 
+
+◊ ◊ ◊ 
+
+ 
+
+Deemos followed Aeros into the courtyard. Deemos stood at a distance and observed. The dragon, sleek and raven hued, curled its lips, exposing razor-sharp teeth. A wisp of steam escaped from flaring nostrils and it emitted a growl from somewhere deep inside its bowels—low and dangerous, greeted the Wyvern Charmer. Deemos watched the kobold bound aboard his dragon in a single graceful leap. A series of leather straps, buckles, and belts secured Aeros to the saddle. He donned his helmet and set his googles in place. An enthusiastic smack from the riding crop urged the dragon ahead. The massive black lizard unfolded its leathery wings and began beating the air into submission, lifting its massive girth off the ground. 
+
+Deemos squinted into the sun as he watched Aeros and his dragon clear the walls, gain altitude, then bank southeast. Another fool in the master’s service. 
 {% endcapture %}
 
 {% include book-card.html
