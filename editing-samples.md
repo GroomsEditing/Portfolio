@@ -560,6 +560,7 @@ Aeros pivoted and resumed his exit.
 Deemos followed Aeros into the courtyard. Deemos stood at a distance and observed. The dragon, sleek and raven hued, curled its lips, exposing razor-sharp teeth. A wisp of steam escaped from flaring nostrils and it emitted a growl from somewhere deep inside its bowels—low and dangerous, greeted the Wyvern Charmer. Deemos watched the kobold bound aboard his dragon in a single graceful leap. A series of leather straps, buckles, and belts secured Aeros to the saddle. He donned his helmet and set his googles in place. An enthusiastic smack from the riding crop urged the dragon ahead. The massive black lizard unfolded its leathery wings and began beating the air into submission, lifting its massive girth off the ground. 
 
 Deemos squinted into the sun as he watched Aeros and his dragon clear the walls, gain altitude, then bank southeast. Another fool in the master’s service. 
+
 {% endcapture %}
 
 {% include book-card.html
@@ -572,6 +573,7 @@ Deemos squinted into the sun as he watched Aeros and his dragon clear the walls,
 	edit=edit_ripleys
 	before=before_ripleys
 	after=after_ripleys %}
+
 {% capture edit_rise %}
 Pushed the author to find a more unique and interaction to help build, keep, and lighten tension.
 {% endcapture %}
