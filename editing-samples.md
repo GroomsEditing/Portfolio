@@ -314,7 +314,7 @@ Chapter Ten (Fall 528, Age of the Arch Mage)
 
      Teddy came out of the water spitting and coughing. He grabbed a handful of mane and used Kicker to gain his feet. He wiped away the water clouding his vision. The scene churning around him was chaotic as his riders pressed their attack. Bull and Moss had dismounted, their swords cutting a swath through the orcs. Dane and Franklin remained astride, their bows purring as arrows leapt from the string. The shouting, the wounded’s cries, and the smell of death hung over the river.  
 
-     Teddy had endured combat’s horror before, many times. His hands trembled as he fumbled to pull an arrow from his quiver. Wet and numb fingers worked against him as he armed his bow. Teddy felt his heart race, surveying the river and the banks for Wulf. A dozen yards to the east, he located his son battling two orcs. Blast! He drew the bowstring tight to his cheek. 
+Teddy had endured combat’s horror before, many times. His hands trembled as he fumbled to pull an arrow from his quiver. Wet and numb fingers worked against him as he armed his bow. Teddy felt his heart race, surveying the river and the banks for Wulf. A dozen yards to the east, he located his son battling two orcs. Blast! He drew the bowstring tight to his cheek. 
 
  
 
@@ -705,6 +705,7 @@ Maggie shared Wulf’s urgency as she sped south. Wulf leaned over the saddle, a
      Maggie planted herself in place and shook, her eyes wide with fear and exhaustion. The barbarians withdrew as Wulf approached Maggie—they wanted nothing more to do with this demon mare. Wulf extended his bound arms, and she set her head on his shoulder. He leaned his head against hers. “Good girl.” 
      Maggie whinnied in agreement. Wulf glanced at the barbarians and shrugged. The commander scowled and gestured towards the trail. 
      “I’m sorry, but you must go with them,” Wulf explained as he scratched her ears. “I promise I will fetch you shortly. It will be okay, Maggie.” 
+	 
      Maggie snorted. 
 {% endcapture %}
 
