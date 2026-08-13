@@ -67,8 +67,8 @@ show_tile: false
 		<div class="box pricing-note">
 			<p>
 				Please feel free to ask any questions in the submittable form. I'm happy to be flexible on pricing terms.<br />
-				<a href="https://www.the-efa.org/rates/">Editorial Rates</a>
-				</p>
+				My rates are based on the <a href="https://www.the-efa.org/rates/">Editorial Freelancers Association rates.</a>
+			</p>
 		</div>
 
 	</div>
