@@ -2022,6 +2022,7 @@ Seth found Western Union drinking from a stream and he admired from afar her. He
 Western Union’s head gently raised and her ears twitched when she heard him approach. She snorted and stomped her hoof.
 
 “I missed you too.” Seth opened his arms, and she walked into his embrace. For a long moment he held Western Union close, and, in an instant, his anger leached from his body. “There is more work that needs to be done. Ready?”
+
 She whinnied in reply.
 
 {% endcapture %}
