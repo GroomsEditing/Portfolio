@@ -826,3 +826,28 @@ Maggie snorted.
 	edit=edit_rise
 	before=before_rise
 	after=after_rise %}
+
+{% capture edit_wraith %}
+Lots of in-depth comments and feedback sessions about including the company more than just Seth. Increase chances for characterizations of minor characters. Smoothed out timeline and finer details between the chain of encounters with Seth’s Company and the Volgaah invaders. The excerpt is many chapters following this series. The gaps on chapter numbers are alternate storylines that do not follow Seth’s Company.
+{% endcapture %}
+{% capture before_wraith %}
+
+X
+
+{% endcapture %}
+{% capture after_wraith %}
+
+X
+
+{% endcapture %}
+
+{% include book-card.html
+	title="Tales From Gaiand: The Wraith"
+	book_url="https://www.amazon.com/Tales-Gaiand-Wraith-Chris-Grooms-ebook/dp/B0GKB2Z9W6?th=1&psc=1&dib=eyJ2IjoiMSJ9.SAVCPYm9S_q4jQHVDuhxfLXTzpngZ02F_5lGUmTVNIHFdTRQLil7jmGEvX_CGEtF.4eZ2jJtc5KJBkb7jgGtqIXdXDa6ycUwQ77SEbTNnJ3E&dib_tag=AUTHOR"
+	author="Chris Grooms"
+	author_url="https://chrisgrooms.com "
+	pages="667"
+	role="Developmental Editor"
+	edit=edit_wraith
+	before=before_wraith
+	after=after_wraith %}
