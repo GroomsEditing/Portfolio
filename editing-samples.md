@@ -706,7 +706,7 @@ Maggie shared Wulf’s urgency as she sped south. Wulf leaned over the saddle, a
      Maggie whinnied in agreement. Wulf glanced at the barbarians and shrugged. The commander scowled and gestured towards the trail. 
      “I’m sorry, but you must go with them,” Wulf explained as he scratched her ears. “I promise I will fetch you shortly. It will be okay, Maggie.” 
 	 
-     Maggie snorted. 
+Maggie snorted. 
 {% endcapture %}
 
 {% include book-card.html
