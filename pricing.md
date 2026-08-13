@@ -21,7 +21,7 @@ show_tile: false
 				<div class="pricing-card box">
 					<h3>Package 1</h3>
 					<ul class="pricing-features">
-						<li>Full Piece Review at 2.5&cent; per word</li>
+						<li>Piece Review @ 2.5&cent; per word</li>
 						<li>One hour Dedicated Review Session @ $45</li>
 					</ul>
 				</div>
@@ -30,9 +30,9 @@ show_tile: false
 				<div class="pricing-card box">
 					<h3>Package 2</h3>
 					<ul class="pricing-features">
-						<li>Full Piece Review at 2.5&cent; per word</li>
+						<li>Piece Review @ 2.5&cent; per word</li>
 						<li>One hour Dedicated Review Session @ $45</li>
-						<li>Second Full Piece Review at 2&cent; per word</li>
+						<li>Second Piece Review @ 2&cent; per word</li>
 					</ul>
 				</div>
 			</div>
@@ -40,7 +40,7 @@ show_tile: false
 				<div class="pricing-card box">
 					<h3>Package 3</h3>
 					<ul class="pricing-features">
-						<li>Two Full Piece Reviews at 2&cent; per word</li>
+						<li>Two Piece Reviews @ 2&cent; per word</li>
 						<li>Two hours of Dedicated Review Session @ $45</li>
 					</ul>
 				</div>
@@ -49,17 +49,18 @@ show_tile: false
 
 		<div class="row">
 			<div class="6u 12u$(medium)">
-				<h3>Full Piece Review &mdash; 2.8&cent; a word</h3>
+				<h3>Piece Review &mdash; 2.8&cent; @ word</h3>
 				<p>Complete review of the piece with in-depth comments on content. These include:</p>
 				<ul>
 					<li>Character and story inconsistencies.</li>
 					<li>Recommended tonal, diction, or word choice changes.</li>
 					<li>Pacing suggestions.</li>
 				</ul>
+				<p>I am happy to review full manuscripts to smaller excerpts<p>
 				<p>I am always happy to clarify what my comments mean.</p>
 			</div>
 			<div class="6u$ 12u$(medium)">
-				<h3>Dedicated Review Sessions &mdash; $60 an hour</h3>
+				<h3>Dedicated Review Sessions &mdash; $60 @ hour</h3>
 				<p>We meet virtually to discuss changes to the story content, including work-shopping and theory crafting ways to implement them.</p>
 			</div>
 		</div>
