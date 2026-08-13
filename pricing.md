@@ -21,7 +21,7 @@ show_tile: false
 				<div class="pricing-card box">
 					<h3>Package 1</h3>
 					<ul class="pricing-features">
-						<li>Full Piece Review at 2&cent; per word</li>
+						<li>Full Piece Review at 2.5&cent; per word</li>
 						<li>One hour Dedicated Review Session @ $45</li>
 					</ul>
 				</div>
@@ -30,9 +30,9 @@ show_tile: false
 				<div class="pricing-card box">
 					<h3>Package 2</h3>
 					<ul class="pricing-features">
-						<li>Full Piece Review at 2&cent; per word</li>
+						<li>Full Piece Review at 2.5&cent; per word</li>
 						<li>One hour Dedicated Review Session @ $45</li>
-						<li>Second Full Piece Review at 1.5&cent; per word</li>
+						<li>Second Full Piece Review at 2&cent; per word</li>
 					</ul>
 				</div>
 			</div>
@@ -40,7 +40,7 @@ show_tile: false
 				<div class="pricing-card box">
 					<h3>Package 3</h3>
 					<ul class="pricing-features">
-						<li>Two Full Piece Reviews at 1.5&cent; per word</li>
+						<li>Two Full Piece Reviews at 2&cent; per word</li>
 						<li>Two hours of Dedicated Review Session @ $45</li>
 					</ul>
 				</div>
@@ -49,7 +49,7 @@ show_tile: false
 
 		<div class="row">
 			<div class="6u 12u$(medium)">
-				<h3>Full Piece Review &mdash; 2&cent; a word</h3>
+				<h3>Full Piece Review &mdash; 2.8&cent; a word</h3>
 				<p>Complete review of the piece with in-depth comments on content. These include:</p>
 				<ul>
 					<li>Character and story inconsistencies.</li>
