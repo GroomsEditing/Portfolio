@@ -56,8 +56,8 @@ show_tile: false
 					<li>Recommended tonal, diction, or word choice changes.</li>
 					<li>Pacing suggestions.</li>
 				</ul>
-				<p>I am happy to review full manuscripts to smaller excerpts<p>
-				<p>I am always happy to clarify what my comments mean.</p>
+				<p>I am happy to review full manuscripts to smaller excerpts<br />
+				I am always happy to clarify what my comments mean.</p>
 			</div>
 			<div class="6u$ 12u$(medium)">
 				<h3>Dedicated Review Sessions &mdash; $60 @ hour</h3>
