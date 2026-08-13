@@ -60,12 +60,15 @@ show_tile: false
 			</div>
 			<div class="6u$ 12u$(medium)">
 				<h3>Dedicated Review Sessions &mdash; $60 an hour</h3>
-				<p>We meet virtually to discuss changes to the story content, including workshopping and theory crafting ways to implement them.</p>
+				<p>We meet virtually to discuss changes to the story content, including work-shopping and theory crafting ways to implement them.</p>
 			</div>
 		</div>
 
 		<div class="box pricing-note">
-			<p>Please feel free to ask any questions in the submittable form. I'm happy to be flexible on pricing terms.</p>
+			<p>
+				Please feel free to ask any questions in the submittable form. I'm happy to be flexible on pricing terms.<br />
+				<a href="https://www.the-efa.org/rates/">Editorial Rates</a>
+				</p>
 		</div>
 
 	</div>
