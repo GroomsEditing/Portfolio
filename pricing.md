@@ -65,6 +65,22 @@ show_tile: false
 			</div>
 		</div>
 
+<details>
+
+<summary>Tips for collapsed sections</summary>
+
+### You can add a header
+
+You can add text within a collapsed section.
+
+You can add an image or a code block, too.
+
+```ruby
+   puts "Hello World"
+```
+
+</details>
+
 		<div class="box pricing-note">
 			<p>
 				Please feel free to ask any questions in the submittable form. I'm happy to be flexible on pricing terms.<br />
