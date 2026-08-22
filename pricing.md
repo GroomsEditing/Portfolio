@@ -66,8 +66,9 @@ show_tile: false
 		</div>
 
 <details>
-
-	<summary>Tips for collapsed sections</summary>
+	<h3>Types of Services</h3>
+	<p>In general, my types of services include:</p>
+		<summary>Tips for collapsed sections</summary>
 
 		### You can add a header
 
