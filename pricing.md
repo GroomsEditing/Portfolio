@@ -65,23 +65,24 @@ show_tile: false
 			</div>
 		</div>
 		
-	<div class="6u$ 12u$(medium)">
-		<h3>Types of Services</h3>
-		<p>In general, my types of services include:</p>
-			<details>
-			<summary>Tips for collapsed sections</summary>
+		<div class="6u$ 12u$(medium)">
+			<h3>Types of Services</h3>
+			<p>In general, my types of services include:</p>
+			
+				<details>
+				<summary>Tips for collapsed sections</summary>
 
-			### You can add a header
+				### You can add a header
 
-			You can add text within a collapsed section.
+				You can add text within a collapsed section.
 
-			You can add an image or a code block, too.
+				You can add an image or a code block, too.
 
-			```ruby
-			   puts "Hello World"
-			```
+				```ruby
+				   puts "Hello World"
+				```
 
-			</details>
+				</details>
 
 		<div class="box pricing-note">
 			<p>
