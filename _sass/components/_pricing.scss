@@ -70,3 +70,16 @@
 			margin: 0;
 		}
 	}
+
+	details {
+		margin-bottom: 1em;
+
+		summary {
+			cursor: pointer;
+			font-weight: _font(weight-bold);
+		}
+
+		> *:not(summary) {
+			margin-left: 1.5em;
+		}
+	}

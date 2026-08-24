@@ -68,30 +68,33 @@ show_tile: false
 		<div class="6u$ 12u$(medium)">
 			<h3>Types of Services</h3>
 			<p>In general, my types of services include:</p>
-			
-				<details>
-				<summary>Tips for collapsed sections</summary>
-
-				### You can add a header
-
-				You can add text within a collapsed section.
-
-				You can add an image or a code block, too.
-
-				```ruby
-				   puts "Hello World"
-				```
-
-				</details>
-
-		<div class="box pricing-note">
-			<p>
-				Please feel free to ask any questions in the submittable form. I'm happy to be flexible on pricing terms.<br />
-				My rates are based on the <a href="https://www.the-efa.org/rates/">Editorial Freelancers Association rates.</a>
-			</p>
-		</div>
-
+			<details>
+				<summary>Beta Reading</summary>
+				<p>
+					Beta readers review manuscripts and offer authors feedback and insight, identifying errors, plot problems, inconsistencies, or unclear sections in the work. They serve as a test audience, representing the target readership, and can help identify issues like overused tropes or missing elements. Some beta readers may have particular expertise in the manuscript’s subject matter.
+				</p>
+			</details>
+			<details>
+				<summary>Developmental Editing</summary>
+				<p>
+					Developmental editors (also called “substantive,” “structural,” or “content” editors) deal with content, organization, and genre considerations. After reviewing a manuscript, they may provide an overall critique of the content in a “manuscript evaluation,” or they may provide the author with a revision (or “editorial” or “edit”) letter that outlines the big-picture issues and offers suggestions for how to address them.
+				</p>
+			</details>
+			<details>
+				<summary>Coaching</summary>
+				<p>
+					Coaches and consultants work with clients to develop, refine, or complete works in progress. This amorphous field covers everything from inspiration and encouragement to practical advice. Coaching is often done at the beginning of a project, to get things off the ground, or midway through a stuck project to get things going again.
+				</p>
+			</details>
+		<br />
 	</div>
+	<div class="box pricing-note">
+		<p>
+			Please feel free to ask any questions in the submittable form. I'm happy to be flexible on pricing terms.<br />
+			My rates are based on the <a href="https://www.the-efa.org/rates/">Editorial Freelancers Association rates.</a>
+		</p>
+	</div>
+</div>
 </section>
 
-</div>
+
