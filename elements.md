@@ -25,7 +25,8 @@ nav-menu: true
 						<!-- Content -->
 						<h2 id="content">Howdy, I'm Sam.</h2>
 						<p>
-						I love stories. Employing my minor in creative writing and 8 years of editing experience to help you develop your stories into ones you can love more.
+						I love stories. While reading and reviewing I engross myself in your world to gain a deep understanding of the story and your voice. My suggestions are always to try to pull the best from you. Never to 						erase your voice or story. My goal is to work in tandem with you.
+						Employing my minor in creative writing and 8 years of editing experience to help you develop your stories into ones you can love more. I’ve provided development editing services for four published 							novels. And one on in the works. All genres are welcome. The ones I know the best are fiction, science fiction, and horror.
 						</p>
 					</div>
 				</div>
