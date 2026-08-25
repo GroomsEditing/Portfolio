@@ -2028,7 +2028,256 @@ She whinnied in reply.
 {% endcapture %}
 {% capture after_wraith %}
 
-X
+Chapter Twenty-Five
+
+Winter 532, Age of the Arch Mage
+
+A heavy layer of thick clouds tarnished the sunrise when the soldiers rose from their bedrolls the next morning. A stiff breeze swayed the barren treetops and dispersed the already fallen leaves across the forest floor. The soldiers grumbled, eating their rations cold, and each bland bite fueled their desire for a steaming mug of coffee. The sharp air bit exposed skin while the soldiers tacked their horses. On Band’s command, his troops settled into their saddles, ready to resume their expedition.
+     The ranger set his awareness free, allowing it to roam without constraints. Out across the landscape, his perception expanded in an ever-widening snare to expose dangers that were beyond the capabilities of his other senses to identify. Seth patted Western Union on the neck. “Nothing, Old West.”
+     She threw her head in agreement.
+     By mid-morning, the clouds had ambled east and the temperature steadily climbed, vanquishing the icy sting from the air. Seth halted the column, noticing boot prints deviating west off Turkey Pike into a sprawling meadow. “Band, give them fifteen.”
+    “You heard the captain,” Band said. “Dismount and get your horses watered.” 
+     Seth climbed from Western Union’s back and removed her bridle, hanging it on the saddle horn. He knelt and traced the boot impressions with his finger. The imprints matched the tread from the boots issued to each Brigade soldier. He examined a broken branch and decided the break had happened at least two days ago. Seth glanced over the grassy meadow. The soldiers left a path of matted grass in their wake. Skyward, vultures circled above the clearing, their wings spread wide to soar on the warming currents. Danger did not dwell here, but something concealed within a swath of dead grass at the glen’s far edge unsettled him. He did not need his senses to reveal the location of Azariah’s missing patrol.
+     “Did you detect something?”
+     “I suspect so, Cade,” Seth said, fully aware that Azariah’s unit, from here, was barely over a day’s march from Turkey Foot. “Pyam, keep the others close. Lieutenant, Sergeant Dollof, Fynn, and Silas come with me.”
+     Seth followed the boot prints and motioned for Cade, Band, Fynn, and Silas to split up so they could cover more terrain. Halfway within the glen, the stench of decaying flesh assaulted their noses, and the dreaded drone from swarming flies reached their ears. Silas retched and nearly emptied his stomach. A few yards farther on, they came upon the battle site. 
+     A heavy stillness settled over the battlefield, an eerie hush that seemed to stretch on endlessly. The meadow now served as a cemetery for the unburied, the fallen soldiers lying among the dry grass forever muted. The minutes would persistently tick by, and the sun would faithfully set in the west and rise tomorrow morning in the eastern sky. Yet somewhere families waited in vain, and months or maybe even years would pass before they received news of their sons’ fate.
+     The ranger and his men stood in stunned silence, struggling to process the reality of the situation. Bloated and decomposing corpses littered the ground. The bodies of Brigade soldiers and enemy troops, slashed and pierced, lay entangled in a gruesome dance as their lifeblood stained the earth.
+     Seth retrieved his book and charcoal from his satchel and stooped beside a teenaged enemy soldier. An arrow penetrated the soldier’s neck, and his hollow gaze was fixed on the heavens. Did he comprehend why he fought in a distant land? Did he curse or praise his deity with his final breath, or did he cling to a fond childhood memory? Pallor mortis had claimed him and replaced his pale skin tone with an ashen hue. Seth inspected the scale mail armor, and it bore the enemy’s mark—five diagonal red stripes. He noted the series of overlapping metal plates matching the armor worn by the orcs he ambushed over two seasons ago. The soldier held a crossbow in his mailed hand, his long sword still in the sheath. Seth rose to his feet and counted eleven enemy corpses.
+     “Blast.” Band kicked a helmet and grimaced, knowing he had most likely broken a toe on his right foot. “They were almost home.”
+     “Lieutenant, I found Simms,” Silas cried out. “This is Trent and Hargrove lies a few feet away.”
+     Cade rolled over three slain soldiers, their bodies a testament to the brutal violence they had endured. He bowed his head, overcome with grief at the scene. “Here’s Preece, Berry, and Larson.”
+      “Captain,” Fynn said. “These parallel scrapes in the dirt look like boot heels.”
+     “Correct.” Seth gave Fynn an approving slap on the shoulder. “Lieutenant, can you account for everyone?”
+     “No,” Cade said, massaging the back of his neck. “Lieutenant Blackhawk is not among the dead.”
+      “We’re going after him, correct, Captain?” Fynn said immediately, his voice cracking.
+      “Yes. Hopefully, these drag marks mean Azariah is alive.”
+      “You believe so?” Silas said, his tone matching Fynn’s.
+      “Maybe.”
+     “What’s next, Captain?” Band gazed over the lifeless bodies. Do we take the time to bury our dead or do we allow nature to consume them? Band agonized over his loyalty to the departed and the patrol’s urgent need to locate Azariah. He decided recovering Azariah alive was more important, offering a prayer for the deceased.
+     “I want the four of you to rejoin the patrol,” Seth said. “Lieutenant Badeaux, set a northeast heading while I follow the drag marks for a mile or so. Band bring Western Union along with you.”
+     The ranger departed the glen, tracking the drag marks and the trail of blood. Seth tried to count the boot prints, but the enemy marched single file to hide their numbers. He extended his senses and searched to the farthest extent of his range. If Azariah lived, he lingered beyond Seth’s ability to locate him. Seth altered his course, intending to intercept his unit.
+
+◊ ◊ ◊
+
+“Anything, Captain?” Cade said as the ranger emerged from the woods.
+     “Azariah is outside my range,” Seth answered, climbing onto Western Union’s back. “I can keep searching while we ride.”
+     Clouds meandered in from the west and darkened the forest floor. The patrol members rode in an uneasy silence, each one afraid to speak or breathe too loudly. Wary soldiers combed the lengthening shadows blotting the woods, attempting to find the monsters lurking in the gloom. As noon arrived, a light mist descended from the sky.
+     Suddenly, Seth pitched back in the saddle. He detected a threatening presence loitering at the edge of his range that gave him pause. He squeezed his knees into Western Union’s flanks and brought her to a stop. Seth slid from the saddle and leaned against his mare. He felt the dampness of her coat and the heat radiating from her body. Seth took comfort in her regular breathing and the steady beating of her heart. Faithful Western Union had become his rock. He shut his eyes and blocked out the surrounding noise. The others in his patrol held their breath. They readied their bows and stared at the ranger in confusion.
+     Seth eased forward a few yards, then fifteen more. The woods fell quiet, as if anticipating his next move. No animals. No birds. It seemed they had concealed themselves from pending danger. They had the right to fear. He was the hunter and every living thing within the forest, his prey. Something bothered him, but he could not detect any imminent danger. The ranger advanced another hundred yards north, mystic tentacles forming an invisible net.
+     There, an encampment. Seth paused, probing the enemy campsite. Humans and horses. Where are the orcs?
+     From the saddle, Cade watched the ranger intently, Seth’s every move mentally noted and filed away for future use. He shifted his focus to Western Union and found her equally peculiar with her distinctive white markings interspersed among patches of chestnut and sorrel. The mare stood unmoving and reminded Cade of the horse statue in Fairbriar’s town square. Western Union kept her attention fixed on Seth, head up and ears pricked like she sought to perceive the danger as well.
+     The mist transformed into a consistent drizzle as Seth retraced his steps to his platoon and beckoned Cade and Band to join him near Western Union. “I located an enemy encampment at the extent of my range. No orcs, but humans and horses.”
+     Cade leaned forward in the saddle and cocked his head. “No orcs?”
+     “Captain, how can that be?” Band mimicked Cade. “That’s what we mostly fought in Beth Amen.”
+     Seth shook his head and said “Gents, I’m not sure.”
+     “How many?”
+     “Can’t tell, Cade.” Seth shrugged. “I am too far away to get an accurate count.”
+     “Then let’s stop yacking and close the distance so you can,” Band said.
+     Seth and his platoon proceeded north at a steady pace, the drizzle now a light rain. The ranger’s physical senses collected knowledge that allowed his brain to form a picture. Seth understood the inherent limitation in what he saw, heard, and smelled realizing they could deceive. He relied on his awareness and placed his trust in what he felt instead. His senses stretched out for miles in all directions and provided him with information that enhanced his confidence.
+     Within the depths of the woodlands, the ranger probed the surrounding forest. He had gained sufficient ground, which allowed him to identify thirty-one humans and a pair of horses occupying the encampment. His quarry tarried in blissful ignorance, completely unaware of what stalked them. He searched his surroundings for other potential dangers and uncovered none. Seth recalled counting eleven dead enemy soldiers in the glen. The standard Brigade platoon was forty-one, and if enemy platoons comprised equal size, then Azariah lived.
+     “Lieutenant, the encampment lies less than a mile northeast,” Seth said, dismounting Western Union. He untied the extra quiver secured to his saddle and slung it over his shoulder. “Wait here for my return. Fynn, come with me.”
+    “Yes, sir,” Cade replied.
+     Copying Seth, Fynn slung an extra quiver over his shoulder and stayed near his horse until his captain was ready to step off.
+     Seth placed his hands on either side of Western Union’s face and brought her head to his own. “Stay with Band until I return.”
+     Western Union whinnied softly in reply that she understood. Seth gestured to Fynn and they both hurried north. Cade and Band watched Seth and Fynn until the forest concealed both from their sight.
+     “Does that cause you any discomfort?” Cade asked, screwing his face.
+     “Seen him do it a hundred times,” Band said, his countenance matching Cade’s. “Even now, it creeps me out.”
+     Farther north, the rain dissipated and the sky emerged from behind the clouds in slices of blue above the forest. Sunlight streamed through the leafless trees and striped the forest floor in a lattice of shadows. Seth slowed his and Fynn’s progress and peeked up at the sun overhead. Its position suggested that mid-afternoon neared. He swept the terrain around him and Fynn once more. The enemy remained in their camp and he did not uncover any further threats.
+     Seth sat and leaned his head against a cedar tree. He removed a water skin from his satchel and took a long drink. Fynn rested on a downed tree opposite Seth and waited for the ranger to finish. Seth intrigued him, had since they first met in Chain Bridge. His every movement exuded grace and purpose, leaving no room for any wasted effort. If ever anyone fit the mold of a soldier, it was this man. Fynn laughed to himself at the thought. A man, he is barely six seasons older than me. Scars marred his forehead and laced Seth’s arm. Even the manner he carried himself indicated he was always on guard, always a second away from sudden action. Despite his youth, Captain Seth Blackhawk inspired confidence and, simultaneously, a little fear in those he associated with. “What are we up against?”
+     Seth stowed his water skin. He and Fynn rested between their patrol and the enemy encampment which was less than a mile apart. “Thirty-one humans, but I can’t separate the enemy from Azariah. We need to get closer.”
+     “Then let’s get going.” Fynn stood and hauled Seth upright. “Lead on, Captain.”
+     When Seth and Fynn had traveled another hundred yards, the ranger halted and signaled for his companion to stay put. Fynn patted his forehead to indicate his understanding, then witnessed Seth trot past a pine tree and blend seamlessly into the dense forest.
+     Fynn, with his back pressed into a sturdy oak, recalled a not-so-distant memory. He rode behind Seth Blackhawk on a routine Volunteer patrol in the broad flatlands east of Chain Bridge. He remembered Seth somehow detecting the advancing orcs, and the ranger and Raniyah galloping off to intercept them. Fynn grinned, conjuring up vivid images of the brief skirmish with the orcs and the thrill he experienced during his first taste of combat. He admired Seth’s and Raniyah’s talents to mend the injuries Albie and Jarrett suffered in the fight using their druidic magic. Fynn reflected on Seth’s capacity to meld into his environment, rendering himself practically undetectable. He envied Seth’s prowess with the long bow, making every shot count. Fynn opened his eyes and recognized the remarkable advancement in Seth’s powers since they initially crossed paths.
+     Wrapped in the forest, Seth inched ahead slowly, sweeping the woods until he reached the western edge of the camp. Stumps where trees once stood scarred the clearing and desecrated the land. Fury threatened to consume him at what he witnessed, yet Seth set aside his anger, choosing instead to stay focused.
+     Enemy troops wielded axes and saws. Their cruel metal instruments felling trees. Giant oaks, cedars, maples, and cherry trees lay in massive piles. Other soldiers employed smaller saws and hatchets to reduce the logs to manageable pieces to load onto wagons. The horses harnessed to the wagons appeared visibly miserable, as evidenced by their hanging heads and exposed ribs. Four troops bearing the mark of the enemy—five blood red slashes on their armor—patrolled the encampment in pairs. Canvass shelters dominated the camp’s northern side, with a large tent pitched amid them.
+     Seth slipped back into the woods, the brush and thickets concealing him from wandering eyes. He shifted his position slightly north, searching for Azariah. Found you. The enemy had Azariah bound to a pole in the heart of their camp. With no shelter from the elements, he slumped against his bonds. As the ranger retreated into the wood line, the presence of a sizable man caught Seth’s interest. Enemy soldiers saluted and sidestepped when the man neared. Saluting in the field is pointless and can get you killed. Seth’s attention remained on the man until he eventually made his way inside a tent.
+     Seth removed his charcoal stick and book from his satchel. For nearly half an hour, the ranger documented the sights and sounds he encountered. While conducting his observation, he counted thirty enemy soldiers, noted guard routes, and sketched a crude rendering of the camp’s layout. Seth stowed his book and withdrew. The ranger formulated his plan, hurrying to reunite with Fynn.
+     Mid-afternoon lingered and dusk nipped at its heels when the ranger reunited with Fynn. Seth yanked off his cowl and plopped down on a cedar log. Fynn noticed the scowl and the lines etched on the ranger’s forehead. Seth extracted his book, turning to the page containing his sketch. “I found Azariah alive.”
+     “Where?”
+     “The enemy has him tied to a pole in the middle of their camp.”
+     “How many enemy soldiers, sir?”
+     “Thirty.”
+     “What’s the plan?”
+     “Present this sketch to Lieutenant Badeaux and Sergeant Dollof.” Seth tore the drawing from his book and passed it to Fynn. “I want the patrol to attack the camp from the southwest when they hear shouting.”
+     “Got it,” Fynn said, hustling to rejoin his unit.
+ 
+Chapter Twenty-Six
+
+Winter 532, Age of the Arch Mage
+
+“Alright, Kiah, how would you approach this?” Seth quietly said. The ranger lowered his eyes, hoping to hear his uncle’s voice inside his head. He gazed at his worn leather boots and permitted several minutes to pass, as if anticipating Kiah’s response. Seth slowly rose from the log, fully aware that his uncle was incapable of answering his question and kicked a fallen tree limb. “Blast, Kiah, your death came at the worst possible time.”
+     The ranger cautiously approached the camp from the west, his senses stretched out. A series of thuds and loud crashes halted him. He heard shouting, then a taskmaster’s whip cracked. Horses screamed, a high-pitched wail that revealed their pain. Seth inched forward until he reached the camp’s edge. A pair of horses, burdened by an unbearable load, refused to move.
+     Seth plucked an arrow from his quiver and smoothed the fletching between his fingers. The ranger set the arrow against the nocking plate and applied his draw. The bow protested and biceps bulged as Seth drew the string tight. He sighted in on the taskmaster and delayed releasing the bowstring. The taskmaster’s arm lifted, whip in hand.
+     The ranger freed his first arrow and the waiting was over. He experienced a surge of exhilaration so intense it nearly eclipsed his anticipation. The feeling was reminiscent of the many times he and Wulf sparred in the side yard. Seth got so keyed up that he felt physically sick. He could never articulate the reason, but he suspected he feared failure and the notion of Wulf besting him was unbearable. He always let Wulf initiate the attack, and once their blades crossed, Seth relaxed.
+     The taskmaster huffed when the arrow found a gap in the armor, piercing his lung. Before the soldiers occupying the wagon seats could raise the alarm, two more of Seth’s arrows eliminated their targets.
+     The ranger stowed his bow and made his way toward the horses. He fought to steady his hands, his chest heaving with the rage flooding his veins. His long knife sliced the leather harnesses that bound the horses to the wagons. He could count each rib and their hip bones jutted out sharply. Their coats appeared dull, their heads disproportionately big, and their eyes glazed over. Free from its restraints, the first horse meandered off into the woods.
+     Seth paused in awe at the second horse, a massive stallion nearly eighteen hands tall. Despite his deteriorated state, there was something familiar. Seth recalled a handsome horse this size with irregularly edged white markings adorning his belly, socks, and muzzle. He remembered the beautiful white feathering spreading down his lower legs and over his hooves and how the hair flew when the enormous stallion pranced. Seth snapped his fingers. Pops called you Big Sabo. He reached for Sabo and the stallion shied away.
+     “Sabo, you know who I am.”
+     The ranger ran his hand along the stallion’s arched neck, high withers, and sloped shoulders. He felt the scars and whip lashes marring his once-gorgeous bay coat. Big Sabo had transformed into an empty shell of his former self. The once-proud stallion was gone, his spirit and beauty a distant memory. Sabo’s captors had extinguished his desire to live, resulting in a hollow soul.
+     “Stay with me, Sabo.”
+     Seth produced an echinacea root and a chamomile leaf from his pouch. With his palms, he gently massaged them into the multiple wounds disfiguring Sabo’s body. The ranger summoned his healing arcana, knowing his powers paled compared to Raniyah’s. He shivered, feeling the coldness of his magic seeping into his fingers. He felt Sabo shudder as icy tentacles probed the damage. Seth stitched closed open wounds, but his arcana was not sufficient enough to remove the infections plaguing the stallion, or heal seasons of neglect, starvation, and abuse. The ranger’s shoulders sagged, understanding he had failed to mend Sabo’s broken spirit. Sabo whinnied softly as Seth let his magic ebb.
+     Seth searched his satchel and found the apple he had brought for Western Union. He retrieved it and placed it near Sabo’s mouth. The big bay flinched. Seth angrily swiped at the tears as dread clawed at his throat. Sabo’s breathing suddenly came in abrupt, ragged breaths. Big Sabo faltered and his legs buckled. The big bay cascaded to the earth and landed hard on his side. Seth collapsed to his knees and recalled his healing magic.
+     “Don’t die on me.”
+     Once more, Seth freely submitted to the icy clutches of his arcana. The ranger examined Sabo anew. He scoured the stallion’s body for a wound, an injury he missed previously. The seconds and minutes ticked by. Seth stifled a scream as his hope of saving Sabo surrendered to despair. Seth knew the big bay had died and allowed his arcana to dissipate. The ranger’s hand rested on the stallion’s chest, and he perceived Sabo’s body temperature slowly decreasing. How do I …Seth choked on a sob. How do I tell my mother? Sabo became another fragment of his childhood forcibly ripped from his grasp. A profound numbness engulfed the ranger, leaving him devoid of any sensation or emotion.
+     The ranger arched his back and grief narrowed his vision. He emptied his soul, distancing himself from compassion. Sympathy was now a foreign concept. Driven by his desire for retribution, Seth succumbed to its callous touch. He granted vengeance permission to fill the void within his vacant spirit.
+     Seth came to his feet, his lower lip curling into a snarl. The ranger mouthed the words and his magic masked his presence within the lengthening shadows.
+     He evolved into a specter.
+     He became the Wraith.
+
+◊ ◊ ◊
+
+Fynn sprinted through the woods, knowing Captain Blackhawk counted on him to deliver the page clutched in his right hand to Lieutenant Badeaux. Despite the tree branches whipping at his face and drawing blood, he pressed on. Fynn burst from the wood line and realized he was on Turkey Pike. He turned south and resumed his rapid pace. Fynn reached the patrol minutes later and presented the page to Lieutenant Badeaux. “Sir, from Captain Blackhawk.”
+     “A gift?”
+     “Depends, sir.”
+     “On what?”
+     “Whether or not you want to kill the enemy.”
+     “What does Captain Blackhawk propose?” Cade accepted the page and examined the crude drawing.
+     “When you hear the shouting, attack from the southwest.”
+     “Seems simple enough.”
+     “I thought so.”
+     “Uh, Fynn, what does the ‘x’ signify?” Cade asked, reviewing the sketch for a second time.
+     “Oh yeah,” Fynn said sheepishly, his cheeks turning a shade warmer. “Sir, Lieutenant Blackhawk is alive.”
+     “Blast, Private Skinner, think you might lead with that little nugget of information next time?”
+     “Sure, Lieutenant, not a problem.”
+     Chuckling to himself, Band watched Fynn and Cade’s interaction. Fynn’s folksy mannerisms could irritate some people. However, this feeling eventually diminished once you got the chance to know him.
+     “Sergeant Dollof, muster the patrol,” Cade said, handing him the drawing. “We had better hurry for the encampment before the Wraith wipes out the entire enemy platoon.”
+     “Yes, sir. Lads, gather around the lieutenant.”
+     “Gents, Lieutenant Blackhawk is alive and we intend to retrieve him.” Cade brought his hands up to quell his soldier’s excitement. “Captain Blackhawk provided a sketch of the enemy’s camp and he has ordered us to attack their encampment from the southwest. Brigade to the saddle!”
+     “Western Union, stay close to me,” Band said, running his hands along the mare’s neck.
+     Western Union snorted and flicked her head.
+     Cade verified his soldiers had settled onto their mounts, then directed his attention to Fynn. “Lead us on.”
+     “Yes, sir.”
+     Private Fynn Skinner led the patrol north through the forest, with sixteen Brigade soldiers trailing behind him in a single file column. Nearly twenty minutes later, Fynn raised his hand when he located the spot where he last saw Seth and brought the platoon to a stop, dismounting. Fynn pointed northwest, arming his bow.
+     Lieutenant Badeaux descended from his saddle, motioning Fynn forward. Cade knocked an arrow, then hurried after Fynn.
+     “Kiv and Meta, guard the horses,” Band said, his voice barely audible. He readied his long bow, trailing Cade and Fynn. “Everyone else needs to hasten their pace.”
+     Fynn halted near a knot of downed trees about a dozen yards from the horses, allowing Cade to catch him.
+     “Much farther?” Cade whispered.
+     Fynn shook his head, advancing once more.
+     Cade signaled for the platoon to spread out, instructing his soldiers to create more distance between themselves.
+     Private Orji Thayer, in addition to Rook and Candor, secured the platoon’s western flank. Panic gripped Thayer; it gnawed at his heart and mind. In the past, he had taken part in numerous patrols, but this instance marked his first opportunity to taste combat. He and his mates had ventured far beyond the Rappacion’s safety and what he endured in these last few days would forever haunt him. Thayer was with Lieutenant Badeaux when they stumbled upon the dead orcs adjacent to the Hebrum River a season ago. He accompanied Cade when they first encountered the Wraith and the amount of fear he experienced then equaled what he withstood now. Private Thayer firmly believed his life may end this day at the age of twenty. His body trembled and he nearly dropped the arrow in his left hand.
+     Private Rook VinStead occupied a position to his right, wearing a mask of determination on his adolescent face. Rook, two years Thayer’s junior, had his bow drawn, his arrow ready to slay the enemy. Rook showed no fear. His faith in their mission and the platoon remained steadfast. To Thayer’s left stood the Rock, Sergeant Band Dollof. A proven combat veteran, Band had battled orcs alongside Captain Blackhawk in the Border Lands and in Beth Amen. Sergeant Dollof’s steady presence acted as the glue, the singular binding agent that held the platoon together. Thayer did not want to disappoint his companions, so he vowed to draw courage from Band and Rook and attempted to mimic their bravery.
+
+◊ ◊ ◊
+
+Seth retreated west, hanging his extra quiver on a tree branch. He worked his way toward the encampment’s northern edge. The enemy soldiers roamed about, unaware that death dwelt among the gloom. Cooking fires were lit, and the smell of burning wood and roasting meat wafted in the air. A soldier laughed, and another swore. The woodlands stood still. The birds quelled their chatter and the forest animals sought cover, afraid to take another step. He had arrived. Shrouded and enraged, the ranger’s magic veiled him from those he hunted.
+     Seth set an arrow against the bowstring and drew it taut. He selected his target. He felt the fletching pressed against his flesh. Seth paused and exhaled at the natural release point, like his mother had taught him. The bowstring snapped as he liberated the missile. His arrow sliced the dusk unseen.
+     The missile caught the soldier’s neck. He gagged and his eyes widened. He clutched at the arrow, then fell backward onto his horrified companion. Seth’s bowstring hummed as he loosed three more missiles. Each resulted in the same deadly consequences.
+     From within the encampment, a horn blared. Three short blasts alerted the soldiers that danger had descended upon them. Relaxing soldiers hurriedly donned their armor and grabbed their weapons. Sergeants cursed and shouted orders. Frantic soldiers scanned the darkening wood line, searching for their assailant. The ranger rearmed his bow and selected another target. Seth freed the arrow. A soldier gasped simultaneously with the solid impact of the arrow shaft embedding itself into his heart.
+     Seth scampered deeper into the forest, momentarily detaching himself from the madness, and proceeded east. The ranger reached the camp’s eastern edge and inched closer. He peered around a tree trunk and saw four enemy soldiers sprinting out of the woods and returning to the camp. Showing no mercy or regret, the ranger swiftly released four arrows from his bow, resulting in a rapid succession of shots that brought down the soldiers. Seth adjusted his position a few yards to his right. Crossbows fired blindly at anything moving. The ranger smirked because the bolts were not even close to finding him. Seth’s bowstring thumped in a deadly rhythm, unleashing a relentless barrage of arrows.
+ 
+Chapter Twenty-Seven
+
+Winter 532, Age of the Arch Mage
+
+Three sharp horn blasts echoed throughout the forest. Fynn paused on his next step, turning back to Cade with an impish grin splashed across his boyish mug. “Lieutenant, I believe that’s our signal.”
+     “You think?” Cade said, his smile equaling Fynn’s.
+     Fynn and Cade bolted ahead, followed closely by Silas and Pyam, eager to confront the enemy. As the enemy leaders valiantly attempted to rally their frightened troops, Cade perceived the yelling becoming progressively louder and more desperate. The disturbance indicated that his captain was currently within the camp, attacking their enemies. Cade savored the dread evident in their voices. It was time for the occupiers to experience the same fear they had brought upon the Blackhawk Territory. He hoped the Wraith was filling the camp with dead soldiers. He hoped the enemy’s courage failed.
+     From the wood line, Fynn targeted an enemy soldier and loosed his missile. The soldier staggered once, falling face first into the dirt. Fynn jerked another arrow from his quiver, setting it against his bowstring, and acquired another target.
+     Cade burst into the clearing and spun to his right, freeing his arrow. The enemy soldier faltered and fell to his knees, clutching at the missile piercing his neck.
+     Thayer trailed Band, Rook, Acker, and the remaining Brigade soldiers into the encampment. The drone created from their bowstrings resonated across the forest. The fletchings whistled. The arrows hissed as they gained flight. Into the coming night, Brigade missiles hastened towards their targets. Three enemy soldiers perished in a hail of arrows and four more suffered wounds.
+     Quivering, Thayer hoped his comrades did not notice and think of him as a coward. He nearly emptied his stomach, fighting off the urge to escape the danger. Thayer refused to gaze upon the dead and dying and prayed for ignorance as not knowing if he had killed seemed far better than the truth.
+     Amidst the fighting, Thayer witnessed an enemy soldier recoil as the Brigade stormed into the encampment, killing his troops. He observed the soldier tilt his head back to face the sky and shake his fist. Is he cursing his deity for the deaths of his fellow soldiers? The soldier, without delay, lifted his crossbow, took aim at Flynn, and then pulled the trigger. Thayer did not react quickly enough to fire or yell a warning at Fynn.
+     “Blast!” Fynn yelped, feeling the crossbow bolt slit his leather armor and lacerate his right thigh. The excruciating sensation that coursed through Fynn’s body was so intense that he almost lost his footing. Fynn placed his left hand firmly on the ground, using it to regain his balance, and trailed his lieutenant.
+     Thayer released the bowstring prematurely. The missile veered off course and missed its intended target. Rearming his bow, Thayer saw the soldier toss aside his crossbow and snatch his long sword from its sheath and shout, “Volgaahans on me.”
+     Lieutenant Badeaux heard Fynn squawk, but could not offer any assistance. Cade’s attention was drawn to the enemy soldiers forming ranks. “Band, don’t let them establish a defensive position.”
+     Above the clamor, Band heard his lieutenant’s voice and skidded to a stop, releasing an arrow. The enemy trooper somersaulted and never regained his feet. Band spied over a dozen soldiers rallying to their comrade and wasted little time organizing their protective lines near the center of the encampment. Their leader brandished his sword, thrusting it towards Band, Rook, Acker, and Thayer and yelled, “Fire.”
+     Without hesitation, the soldiers responded. Simultaneously, they all squeezed their triggers. Tension strings snapped forward and sent the bolts speeding down the flight grooves. A swarm of bolts buzzed, hurtling towards their intended targets.
+     Band groaned when the bolt impaled his left shoulder, causing him to lose the grip on his bow. He staggered on his next step, then collected himself, wrenching his sword from its sheath. Rook collapsed, his knees buckling under the intense pain caused by the bolt deeply embedded in his right side. Acker coughed once, and blood began to trickle from the corners of his mouth. He dropped his bow and seized the bolt protruding from his chest with both hands. Following an unnatural jerking motion of his body, Acker fell heavily and awkwardly onto the ground.
+     Thayer froze, his heart hammering in his chest. Both Band and Rook had sustained injuries. He gazed at his fellow soldier’s unmoving body and knew Acker was dead. The fighting raging around him inundated Thayer’s senses. Men screamed, their shouts reverberating in his ears. The putrid scent of blood and death hung heavy in the air, stinging his nostrils. His mouth went dry and the bile rising from his stomach burned the back of his throat. Thayer closed his eyes, hoping the disturbing images occupying his vision would disappear.
+     When Thayer blinked his eyes open, he witnessed Lieutenant Badeaux, Sergeant Dollof, Fynn, Silas, Pyam, and the rest of his platoon mates rapidly closing in on the enemy’s lines. Orji Thayer sucked in a breath, corralling what persisted of his fleeting courage. He snatched an arrow from his quiver. Use the bow first, Helen demanded. He set the missile to the knocking point, drew the bowstring to his cheek, and hesitated for a second. This is the natural pause before you fire, Thayer heard Helen Blackhawk bark. Focus on your target. Exhale and release. His arrow leapt off the string, finding its target. Thayer automatically shifted three steps to his right, setting another arrow onto the bowstring.
+
+◊ ◊ ◊
+
+Hidden from sight, Seth took in the chaos swirling within the clearing. Swords drawn, Cade, Band, and the rest of their platoon courageously charged into the enemy’s ranks. Thayer and Noles stood several paces behind, their bows humming with each arrow they freed. The officer who had initially caught Seth’s eye had once again drawn his attention. He had taken up arms with his troops to protect and defend their camp. However, the ranger was most concerned with the soldier rallying the enemy troops and directing their defensive actions.
+     Seth selected his target and set the missile loose. As the arrow leapt off the string, the fletchings created a quick hissing sound, lightly scratching the bow wood. The soldier buckled. He staggered twice, then pitched forward and fell. With the death of their leader, the four remaining soldiers under his command surrendered, relinquishing their weapons and raising their hands in submission.
+     Seth observed the officer involuntarily flinch when his troops’ weapons clattered upon the ground. The officer spun. He hoisted his sword, and then dashed ahead, eager to engage his attackers.
+     The ranger gripped his long bow firmly in his left hand while nimble fingers removed an arrow from the quiver slung across his back. He fixed the arrow against the string and pulled it taut, aiming at the officer. His missile exploded from the bow, screaming through the air.
+     The officer yelped at the excruciating sting tearing into his chest, causing him to stumble. He slowly sank to his knees, and his blade tumbled from his grip. For a moment, he surveyed the somber scene before him. He pushed himself away from the ground and wobbled on unsteady legs.
+     An audible snarl escaped the ranger’s lips. Despite no longer wielding his sword, the officer remained the focus of the ranger’s arrow. Seth momentarily fought in another fierce conflict against his conscience. He raged, driven by his desire to eliminate the enemy officer and his thirst to spill more blood. The ranger exhaled and swore under his breath, knowing he could not justify killing an unarmed and wounded soldier. Guilt stabbed at Seth, causing a frown. His soldiers had defeated a superior enemy force, and they were relying on him to stay focused on the mission rather than getting consumed by his own desire for retaliation.
+     The ranger watched the officer lurch forward as if determined to continue the fight. He clutched his chest like he was struggling to breathe, spewing a mouthful of blood onto the earth. The officer fell onto his side and succumbed to his injury.
+     Emerging from the treeline, Seth slowly lessened the tension on his bow. His senses detected no danger, and his platoon controlled the encampment. He returned the arrow back into his quiver and hurried to the Brigade soldier bound to the pole.
+     “Lieutenant, tend to the prisoners,” Band shouted, discounting the dead officer lying a few yards from him. “I am going to secure the perimeter and deal with our casualties.”
+     “Go.”
+     “Thayer, Fant, and Noles secure our western flank.” Disregarding his own injury, Band hastened towards Rook and Acker. “Candor, Betano, watch the east. N’Cube and Shad guard our north.”
+     Nacua rose from Acker’s side, shaking his head. “He’s dead, Sergeant.”
+     “Okay. Join N’Cube and Shad.” Band gazed at Acker’s unmoving body and felt a swell of rage. He would mourn later. He turned to Rook and stuck out his hand.
+     “Blast!” Rook gritted his teeth, clutching at his bloody side. “This hurts like a bitch, Sergeant.”
+     “Come on.” Band hauled Rook to his feet with his unwounded arm and pointed towards Seth. “We need to get you to Captain Blackhawk.”
+     Band and Rook stopped short of the ranger and Lieutenant Blackhawk.
+     Seth knelt near the Brigade soldier tightly bound to the pole. Lieutenant Azariah Blackhawk appeared a few years older than his brother Wulf and bore similar physical characteristics shared by most young Blackhawk men. Azariah’s stature mirrored Wulf’s, tall and stout. His complexion possessed a deep and rich ebony hue, and sparse facial hair sprouted under his nose and cluttered his chin.
+     Seth’s long knife sliced the ropes binding Azariah’s hands and feet, viewing the fresh injuries marring Azariah’s body. Swords had slashed skin in three locations, and a crossbow bolt pierced the right side of his chest. Dried blood caked his bruised face and Azariah wheezed with each quick breath he sucked in.
+     Once more, Seth extracted some echinacea root and a few chamomile leaves from his satchel and softly applied them to Azariah’s wounds. The ranger called upon his magic and quivered as an icy sensation spread through his hands. Seth placed his hands on Azariah, his healing arcana summoned and ready to work. Azariah trembled, enduring the ranger’s wintry touch. Seth directed frosty barbs into Azariah’s broken body. He withdrew the bolt and sewed closed open wounds. Seth removed his hands and allowed his magic to dissipate, knowing Azariah needed trained healers to mend his injuries properly. Seth assisted Azariah in getting into a sitting position. Azariah coughed once, massaging aching wrists, and said, “How did you do that?”
+     “I can channel druidic magic.”
+     Unsure of what else to do, Azariah nodded. Druidic magic was an unfamiliar concept. He gazed over the encampment. Death engulfed his vision, and he retched on its fetid stench. “What happened to the enemy soldiers?”
+     “We happened,” the ranger said, gesturing to the Brigade soldiers standing nearby.
+     Azariah turned and studied Seth suspiciously. “Who are you?”
+     The ranger tugged his cowl from his head and extended his hand. “Seth Blackhawk.”
+     “Seth Blackhawk. By the Maiden, I know your name,” Azariah said. He recalled that Cade and the others had spoken incessantly about Seth Blackhawk. He recalled that Cade and the others had spoken incessantly about Seth Blackhawk. They had spun fantastic tales concerning his exploits, stories that Azariah found difficult to believe. “Are we cousins?”
+     “Most likely.” Seth said. He gently clasped Azariah’s shoulder. “I suggest we postpone the family reunion until we return to Turkey Foot.”
+     “Captain,” Band said.
+     Seth looked over Band and Rook and said, “I guess the two of you are next?”
+     “If you wouldn’t mind.”
+     “Sit.”
+     “Captain, Acker is dead,” Band said as Seth laid his hands on him.
+     “Silas and Pyam, remove the enemy soldier’s armor, then bind them together.” Cade located Seth with Azariah, Band, and Rook lingering near the center of the camp. He turned to Fynn and said, “Have Captain Blackhawk examine your injury.”
+     “Come on, Lieutenant, this is merely a flesh wound,” Fynn boasted, puffing out his chest.
+     “Not a suggestion, Private Skinner,” Lieutenant Badeaux ordered, trying not to laugh at Fynn’s bravado. Cade swept over the enemy encampment, struggling to comprehend the events that had unfolded before him. A foul combination of death and the acrid tang of perspiration filled the air. He paused and stared at Acker’s corpse. Cade was one of the few officers in the Brigade who had never suffered the heartbreak of losing a soldier in combat. Sadly, that was a claim he could no longer make. The second son of a blacksmith, Angus Acker spent his childhood in Brookelawne. He forsook the family business when he came of age and enlisted. Angus became a member of Cade’s unit not long after the Brigade arrived at Turkey Foot. He knew he would mourn Acker’s death, yet his grieving would have to wait.
+     Cade shifted away from Acker and renewed his sweep of the camp. Enemy corpses lay everywhere, their blood and gore defiling the earth and desecrating the once pristine soil. Today’s triumph belonged to the Brigade. The command’s first since they retreated beyond the Rappacion seasons ago. Was this the initial victory of many to come? The question swelled Cade’s chest with pride. The win came at a heavy price, but with bow and blade, the Blackhawk Brigade emerged from this skirmish victorious. With the blessing of the Maiden, she rewarded our efforts with a much-needed conquest.
+
+◊ ◊ ◊
+
+Private Orji Thayer readied his bow and hurried to assist Fant and Noles in safeguarding the patrol’s western flank. He leaned against an oak, staring up. The setting sun hung like a magnificent orange globe hovering above the horizon, casting a warm and soothing blush over the landscape. The calmness of the scene in the sky was in stark contrast to the chaos that had erupted ten minutes earlier on Gaiand. Thayer closed his eyes, mouthing a prayer to the Maiden of the Dawn. The image of Angus Acker’s death haunted Thayer’s memory and would leave a lasting impression. Thayer sought the Maiden’s absolution. He had killed today. Two enemy soldiers died by his hand, and he asked for mercy on their souls and his.
+     “I am no longer afraid.” Orji peered heavenward, as if he discovered the Maiden seated on a cloud high overhead. “Forgive me, but I vow to kill again if required.”
+
+◊ ◊ ◊
+
+The ranger lingered at Acker’s side, desperately trying to rein in his emotions. Seth’s healing magic had patched up Azariah, Band, Fynn, and Rook, but he lacked the ability to bring Acker back from the dead. The sheer agony that Wulf experienced when he lost a Trooper, or a horse, was an experience permanently etched in Seth’s memory. He didn’t comprehend the pain his brother had endured at the time, but he understood it now. Bowing his head, Seth set his hand on Acker’s forehead. Angus Acker, your sacrifice was not in vain.
+     Band waited for Seth to finish and suggested, “Captain, I recommend sending Lieutenant Blackhawk and Acker’s body to Turkey Foot tomorrow morning.”
+     “Agreed. Lieutenant Blackhawk requires additional medical attention I cannot provide.” Seth’s tone showed empathy for the hardships Azariah had suffered, and he wanted Acker to receive a proper burial. “We need to grab Cade and search the officer’s tent.”
+     Cade felt a complex array of emotions watching Silas and Pyam celebrate. The duo had left the four rope-bound prisoners and hustled to join N’Cube and Shad guarding the camp’s northern edge.
+     “We kicked their asses, Pyam!”
+     “With the Wraith in charge, this war is going to end before summer!” Silas clapped his hands and stomped his feet, stirring up the dust.
+     “Silas, I finally understand what Helen Blackhawk meant by using the bow first.”
+     “Yeah, Helen Blackhawk is awesome!”
+     Cade Badeaux studied the ranger as he approached. His captain wore a blank look and his mouth formed a thin line, his eyes appearing cold and unforgiving. His captain gripped his long bow in his left hand. More than a weapon, the stick and string were as much a part of the ranger as his arms and legs. Cade considered his reaction to Seth odd, though he and the ranger wore the exact uniform and fought for the same cause. Seth naturally induced fear in others. Most deemed him an enigma, rare and misunderstood. It was as if he looked right through you and saw things hidden from a normal man’s sight. He made you feel like he could kill you from anywhere. Seth seemed a force of nature, wild and feral, and at home in the forests and the wilds. He was comfortable in places other men feared to tread.
+     On other occasions, Seth Blackhawk provoked a confidence in those he led, a certainty that they could slay giants and defeat any foes. It was a faith that stemmed from Seth’s unwavering belief in his own ability to win. Cade found these notions dreadful and intoxicating in the same breath.
+     “Captain.”
+     “Lieutenant. I am sorry about Acker,” Seth said. “His death is tragic, as is any soldier’s death. Yet, we scored a victory today.”
+     “It is, and we did.”
+     The ranger gripped Cade’s shoulder and said, “Let’s see what we can find in the officer’s tent.”
+     Seth, followed by Cade and Band, brushed aside the tent flap and entered. A cot sat against the east wall, and papers and maps littered a makeshift desk near the back. Seth removed his gloves and examined a map while Cade shuffled through a myriad of papers. Circles drawn around Fairbriar, Wingrove, Cache Creek, Pepperrowe, and Dunnotter seemed to indicate enemy garrisons, and thick lines denoted the roads. Three x’s along the Hebrum River appeared to mark the ford sites. “Cade, come see this.”
+     Cade scanned the map and noted the circles drawn around various villages in northern Blackhawk and three x’s. “The x’s are the fords, and I guess the circles are where the enemy has garrisoned troops.”
+     “I concur,” Seth said. “Did you find anything in the papers?”
+     “Nothing out of the ordinary caught my attention, but it is imperative that Major Blackhawk review every scrap.” Cade found a backpack, emptied its contents onto the ground, and stuffed the map and papers inside. “Azariah can deliver the pack to him.”
+     “Cade, I want the enemy prisoners freed,” Seth said.
+     “What?”
+     “Lieutenant.” Band chuckled at Cade’s reaction, and he immediately regretted his decision, forgetting his shoulder still ached. “It’s crucial they inform their comrades that the Brigade fights. We can use this victory to our advantage, you know, give them something to fret over. Gents, leave the prisoners to me.”
+     Cade shook his head as Band exited the tent. “Captain, I find your decision disturbing.”
+     “Fair,” Seth said. “Cade, Band is correct. I want the enemy to know the Brigade intends to fight back.”
+     “Okay. I can see your logic.”
+     “Cade, keep the patrol near here overnight,” Seth said. “In the morning, check the southern and mid-river crossings, then steer the patrol for Wingrove.”
+     “What are your plans?”
+     “I plan on tracking the prisoners to Wingrove.”
+     “Alone?”
+     “Yes.”
+     Cade wanted to argue, even though it was pointless. As he and Seth left the tent, he said, “I understand.”
+     Seth and Cade halted outside the tent, their attention drawn to Band and the four enemy prisoners.
+     After untying the prisoners, Band grabbed the oldest soldier by the arm. “Come.”
+     Band led the soldiers to the north edge of the camp and said, “Git! Go tell your leaders the Blackhawk Brigade is en route.”
+     “Wingrove is two days from here,” the youngest soldier whined, rubbing his wrist. “We have no weapons, water, or food.”
+     “If you prefer, I could arrange for you all to rot in Turkey Foot’s stockade.”
+     The enemy soldiers sneered at Band and then trotted north.
+     “Didn’t think so.” Band laughed, wincing at the pain shooting through his shoulder. “Blast! I gotta stop making that mistake.”
+
+◊ ◊ ◊
+
+Seth’s call to Western Union prompted her to trot over to him. As she came closer, he was filled with a sense of sadness regarding Sabo. If she had not stubbornly followed Wulf and Maggie to Beth Amen, Western Union may have experienced a similar destiny. Seth clung to his mare’s neck a little longer than usual, then placed his forehead against hers. “You stay with Band for now and I promise to come for you soon.”
+     She whinnied and nibbled at his nose.
+     Seth placed his cowl on his head, watching his patrol and Western Union head east. When the forest enveloped the last soldier in the column, the ranger strode north through the wrecked camp. He suppressed a smile. In war there were terrible losses, and the Brigade certainly had suffered many, including Azariah’s patrol and Angus Acker. Today his patrol had won. They had engaged the enemy and prevailed. Surely today’s victory would raise the Brigade’s morale when word reached Turkey Foot.
+     He located boot tracks in the mud and smirked. His prey did not try to conceal themselves. Seth roamed a few hundred yards from the encampment and beneath a tall pine tree, he removed his quiver and pack and leaned against the trunk. He dug out a water skin and a tin of iron rations from his backpack. His thoughts meandered like a stream while he ate. How was Raniyah? What about his mother? Where was Wulf and Maggie? Had Maria settled into her role as queen? Kiah, did I do this right? When he completed his meal, he stowed his water skin and tin, wrapped himself in his cloak and fell asleep.
+
+
 
 {% endcapture %}
 
