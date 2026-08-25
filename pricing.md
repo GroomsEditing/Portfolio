@@ -41,7 +41,7 @@ show_tile: false
 					<h3>Package 3</h3>
 					<ul class="pricing-features">
 						<li>Two Piece Reviews @ 2&cent; per word</li>
-						<li>Two hours of Dedicated Review Session @ $45</li>
+						<li>Two hours of Dedicated Review Session @ $90</li>
 					</ul>
 				</div>
 			</div>
