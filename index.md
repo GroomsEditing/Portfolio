@@ -7,4 +7,4 @@ image: null
 author: null
 show_tile: false
 ---
-Offering flexible pricing with multiple pacakges to fit any budget. 
+Offering flexible pricing with multiple packages to fit any budget. 
