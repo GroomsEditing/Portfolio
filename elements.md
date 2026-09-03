@@ -31,16 +31,16 @@ nav-menu: true
 
 						<h3 id="content">Author's I've worked with:</h3>
 						<p>
-							{%author="Chris Grooms"
-							author_url="https://chrisgrooms.com"%}
+							{% author="Chris Grooms"
+							author_url="https://chrisgrooms.com" %}
 						<details>
 						<summary>Recommendation</summary>
 						<p>
 						to be inputted
 						</p>
 						</details>
-							{%author="Sirrah Medeiros"
-							author_url="https://sirrahmedeiros.com"%}
+							{% author="Sirrah Medeiros"
+							author_url="https://sirrahmedeiros.com" %}
 						<details>
 						<summary>Recommendation</summary>
 						<p>
