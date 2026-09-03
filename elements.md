@@ -23,19 +23,19 @@ nav-menu: true
 						</header>
 
 						<!-- Content -->
-						<h2 id="content">Howdy, I'm Sam.</h2>
+						<h2 id="content">Howdy, I'm Sam!</h2>
 						<p>
 						I love stories. While reading and reviewing I engross myself in your world to gain a deep understanding of the story and your voice. My suggestions are always to try to pull the best from you. Never to 						erase your voice or story. My goal is to work in tandem with you.</p>
 						
 						Employing my minor in creative writing and 8 years of editing experience to help you develop your stories into ones you can love more. I’ve provided development editing services for five published 							novels. And one on in the works. All genres of prose are welcome. The ones I know the best are fiction, science fiction, and horror. All genres of poetry are welcome.
 
-						<h2 id="content">Howdy, I'm Sam.</h2>
+						<h3 id="content">Author's I've worked with.</h3>
 						<p>
-						author="Chris Grooms"
+						{%author="Chris Grooms"
 						author_url="https://chrisgrooms.com "
 
 						author="Sirrah Medeiros"
-						author_url="https://sirrahmedeiros.com"
+						author_url="https://sirrahmedeiros.com"%}
 
 					</div>
 				</div>
