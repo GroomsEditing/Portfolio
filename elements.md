@@ -29,7 +29,7 @@ nav-menu: true
 						
 						Employing my minor in creative writing and 8 years of editing experience to help you develop your stories into ones you can love more. I’ve provided development editing services for five published 							novels. And one on in the works. All genres of prose are welcome. The ones I know the best are fiction, science fiction, and horror. All genres of poetry are welcome.
 
-						<h3 id="content">Author's I've worked with.</h3>
+						<h3 id="content">Author's I've worked with:</h3>
 						<p>
 						{%author="Chris Grooms"
 						author_url="https://chrisgrooms.com "
