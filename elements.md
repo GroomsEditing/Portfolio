@@ -32,18 +32,14 @@ nav-menu: true
 						<br/>
 						<br/>
 						<h3 id="content">Author's I've worked with:</h3>
-						<p>
-							<a href="https://chrisgrooms.com" target="_blank" rel="noopener">Chris Grooms</a>
-						</p>
+						<a href="https://chrisgrooms.com" target="_blank" rel="noopener">Chris Grooms</a>
 						<details>
 						<summary>Recommendation</summary>
 						<p>
 						to be inputted
 						</p>
 						</details>
-						<p>
-							<a href="https://sirrahmedeiros.com" target="_blank" rel="noopener">Sirrah Medeiros</a>
-						</p>
+						<a href="https://sirrahmedeiros.com" target="_blank" rel="noopener">Sirrah Medeiros</a>
 						<details>
 						<summary>Recommendation</summary>
 						<p>
