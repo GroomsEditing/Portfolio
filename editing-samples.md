@@ -11,7 +11,7 @@ Recommended adding page breaks throughout the combat scene to break up the POV. 
 
 {% endcapture %}
 {% capture before_blackhawk %}
-The Outlanders: The Legend of Blackhawk 
+Tales From Gaiand: Blackhawk
 
  
 
@@ -214,7 +214,7 @@ The remaining riders were speechless not because they doubted Teddy’s decision
 Wulf returned the smile cautiously as he watched his mother running towards him.  
 {% endcapture %}
 {% capture after_blackhawk %}
-The Outlanders: Legends of Blackhawk 
+Tales From Gaiand: Blackhawk
 
  
 
