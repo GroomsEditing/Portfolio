@@ -24,7 +24,10 @@
 		after=after %}
 
 	book_url and author_url are optional; the title/author render as
-	plain text when they're left out.
+	plain text when they're left out. before and after are also
+	optional, individually — the Example section only shows the
+	panes that were actually passed in, and is skipped entirely if
+	neither was given.
 {%- endcomment -%}
 <div class="book-card box">
 	<div class="book-card-header">
@@ -42,17 +45,23 @@
 		<div class="book-card-edit-text">{{ include.edit | markdownify }}</div>
 	</div>
 
+	{% if include.before or include.after %}
 	<details class="book-card-example">
 		<summary>Example</summary>
 		<div class="book-card-compare">
+			{% if include.before %}
 			<div class="book-card-pane">
 				<h4>Before</h4>
 				<div class="book-card-text">{{ include.before | markdownify }}</div>
 			</div>
+			{% endif %}
+			{% if include.after %}
 			<div class="book-card-pane">
 				<h4>After</h4>
 				<div class="book-card-text">{{ include.after | markdownify }}</div>
 			</div>
+			{% endif %}
 		</div>
 	</details>
+	{% endif %}
 </div>
