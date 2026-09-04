@@ -11,7 +11,7 @@ Recommended adding page breaks throughout the combat scene to break up the POV. 
 
 {% endcapture %}
 {% capture before_blackhawk %}
-Tales From Gaiand: Blackhawk
+Tales From Gaiand: Legends of Blackhawk
 
  
 
@@ -214,7 +214,7 @@ The remaining riders were speechless not because they doubted Teddy’s decision
 Wulf returned the smile cautiously as he watched his mother running towards him.  
 {% endcapture %}
 {% capture after_blackhawk %}
-Tales From Gaiand: Blackhawk
+Tales From Gaiand: Legends of Blackhawk
 
  
 
@@ -403,12 +403,12 @@ Teddy had endured combat’s horror before, many times. His hands trembled as he
  {% endcapture %}
 
 {% include book-card.html
-	title="Tales From Gaiand: Blackhawk"
+	title="Tales From Gaiand: Legends of Blackhawk"
 	book_url="https://www.amazon.com/Tales-Gaiand-Blackhawk-Chris-Grooms-ebook/dp/B0BCD5WQY5?th=1&psc=1&dib=eyJ2IjoiMSJ9.SAVCPYm9S_q4jQHVDuhxfLXTzpngZ02F_5lGUmTVNIHFdTRQLil7jmGEvX_CGEtF.4eZ2jJtc5KJBkb7jgGtqIXdXDa6ycUwQ77SEbTNnJ3E&dib_tag=AUTHOR"
 	author="Chris Grooms"
 	author_url="https://chrisgrooms.com/"
 	pages="323"
-	role="Developmental Editor"
+	role="Developmental Editor, Beta Reader, Coaching"
 	edit=edit_blackhawk
 	before=before_blackhawk
 	after=after_blackhawk %}
@@ -569,7 +569,7 @@ Deemos squinted into the sun as he watched Aeros and his dragon clear the walls,
 	author="Chris Grooms"
 	author_url="https://chrisgrooms.com/"
 	pages="368"
-	role="Developmental Editor"
+	role="Developmental Editor, Beta Reader, Coaching"
 	edit=edit_ripleys
 	before=before_ripleys
 	after=after_ripleys %}
@@ -822,7 +822,7 @@ Maggie snorted.
 	author="Chris Grooms"
 	author_url="https://chrisgrooms.com/ "
 	pages="514"
-	role="Developmental Editor"
+	role="Developmental Editor, Beta Reader, Coaching"
 	edit=edit_rise
 	before=before_rise
 	after=after_rise %}
