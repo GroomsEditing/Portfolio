@@ -2299,5 +2299,6 @@ The manuscript was shared with me as a final read over before it was sent to the
 	title="The Emerald Curse"
 	author="Sirrah Medeiros"
 	author_url="https://sirrahmedeiros.com/"
+     edit=edit_emerald
 	pages="122"
 	role="Developmental Editor" %}
