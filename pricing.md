@@ -86,6 +86,12 @@ show_tile: false
 					Coaches and consultants work with clients to develop, refine, or complete works in progress. This amorphous field covers everything from inspiration and encouragement to practical advice. Coaching is often done at the beginning of a project, to get things off the ground, or midway through a stuck project to get things going again.
 				</p>
 			</details>
+			<details>
+				<summary>Proofreading</summary>
+				<p>
+					Proofreading is among the last stages of getting a manuscript ready for publication. Proofreaders check for typographical errors and formatting mistakes. In traditional publishing, proofreading is a review of a publisher’s “proof”—the document that is intended to be printed—whereby the proofreader compares the latest stage of the project to the previous one, making sure all changes have been made correctly.
+				</p>
+			</details>
 		<br />
 	</div>
 	<div class="box pricing-note">
