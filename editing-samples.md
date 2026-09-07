@@ -2302,3 +2302,10 @@ The manuscript was shared with me as a final read over before it was sent to the
      edit=edit_emerald
 	pages="122"
 	role="Proofreader" %}
+
+	</div>
+	<div class="Copyright Disclaimer">
+		<p>
+			Copyright note: All author content is their own. It was shared with proper request to appear on this website. It is not available for copying. I do not own any author content on this website. Kindly show your support by purchasing the referenced books.
+		</p>
+	</div>
