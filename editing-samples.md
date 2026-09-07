@@ -2293,7 +2293,7 @@ Seth’s call to Western Union prompted her to trot over to him. As she came clo
 	after=after_wraith %}
 	
 {% capture edit_emerald %}
-The manuscript was shared with me as a final read over before it was sent to the publisher. My goal was to help massage the additions to the story to feel seamless. I was able to help find a staccatoed converstion, and a missed introduction of a character. These comments helped to polish the manuscript into it's final plubish ready form.
+The manuscript was shared with me as a final read over before it was sent to the publisher. I provided suggestions for grammar and punctuation review, and posed questions and suggestions for the author to consider.
 {% endcapture %}
 {% include book-card.html
 	title="The Emerald Curse"
@@ -2301,4 +2301,4 @@ The manuscript was shared with me as a final read over before it was sent to the
 	author_url="https://sirrahmedeiros.com/"
      edit=edit_emerald
 	pages="122"
-	role="Developmental Editor" %}
+	role="Proofreader" %}
