@@ -43,7 +43,7 @@ nav-menu: true
 						<details>
 						<summary>Recommendation</summary>
 						<p>
-						Sam did a wonderful job proofreading my novella, The Emerald Curse, before publication. He was thorough, insightful, provided creative suggestions, and posed questions that helped clarify a couple of 						passages in the story. Sam also left a suggestion that readers might want to read the details behind a statement made by a character. His idea made a lot of sense for the story, which drove me to craft 						a new supporting scene. His attention to detail was extremely helpful, and I highly recommend Sam and his services to any author looking for a professional, collaborative editor.
+						"Sam did a wonderful job proofreading my novella, The Emerald Curse, before publication. He was thorough, insightful, provided creative suggestions, and posed questions that helped clarify a couple of 						passages in the story. Sam also left a suggestion that readers might want to read the details behind a statement made by a character. His idea made a lot of sense for the story, which drove me to craft 						a new supporting scene. His attention to detail was extremely helpful, and I highly recommend Sam and his services to any author looking for a professional, collaborative editor."
 						</p>
 						</details>
 					</div>
