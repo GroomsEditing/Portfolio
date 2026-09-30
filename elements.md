@@ -35,7 +35,7 @@ nav-menu: true
 						<details>
 						<summary>Recommendation</summary>
 						<p>
-						I have relied on Samuel Grooms for developmental editing on six novels and will continue collaborating with him on future writing projects. Samuel listens, and his easygoing personality ensures focused and effective conversations. It fascinates me to see how completely he can engage with the material. Because of this talent, Samuel can offer comprehensive suggestions that make the story stronger. His quick wit creates more engaging dialogue. Samuel’s attention to detail uncovers plot gaps and guides the writer through fixing those issues. He studies the character’s traits and quirks carefully to make sure the author remains faithful to their creation.
+						"I have relied on Samuel Grooms for developmental editing on six novels and will continue collaborating with him on future writing projects. Samuel listens, and his easygoing personality ensures focused and effective conversations. It fascinates me to see how completely he can engage with the material. Because of this talent, Samuel can offer comprehensive suggestions that make the story stronger. His quick wit creates more engaging dialogue. Samuel’s attention to detail uncovers plot gaps and guides the writer through fixing those issues. He studies the character’s traits and quirks carefully to make sure the author remains faithful to their creation."
 						</p>
 						</details>
 						<a href="https://sirrahmedeiros.com" target="_blank" rel="noopener">Sirrah Medeiros</a>
