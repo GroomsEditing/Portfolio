@@ -27,8 +27,8 @@ nav-menu: true
 						<p>
 						I love stories. While reading and reviewing, I engross myself in your world to gain a deep understanding of the story and your voice. My suggestions are always to try to pull the best from you. Never to erase your voice or story. My goal is to work in tandem with you.
 						<br/>
+						
 						Employing my minor in creative writing and eight years of editing experience, I help you develop your stories into ones you can love more. I’ve provided editing services for five published novels. And one on in the works. All genres of prose are welcome. The ones I know the best are fiction, science fiction, and horror. All genres of poetry are welcome.</p>
-
 						<br/>
 						<h3 id="content">Author's I've worked with:</h3>
 						<a href="https://chrisgrooms.com" target="_blank" rel="noopener">Chris Grooms</a>
