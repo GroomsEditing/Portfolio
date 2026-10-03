@@ -14,7 +14,7 @@ nav-menu: true
 		<div class="spotlights">
 			<section>
 				<span class="image">
-					<img src="{{ site.baseurl }}/assets/images/chopper.webp" alt="" />
+					<img src="{{ site.baseurl }}/assets/images/sam.jpg" alt="" />
 				</span>
 				<div class="content">
 					<div class="inner">
