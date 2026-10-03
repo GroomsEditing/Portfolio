@@ -25,18 +25,17 @@ nav-menu: true
 						<!-- Content -->
 						<h2 id="content">Howdy, I'm Sam!</h2>
 						<p>
-						I love stories. While reading and reviewing I engross myself in your world to gain a deep understanding of the story and your voice. My suggestions are always to try to pull the best from you. Never to 						erase your voice or story. My goal is to work in tandem with you.</p>
-						
-						Employing my minor in creative writing and 8 years of editing experience to help you develop your stories into ones you can love more. I’ve provided development editing services for five published 							novels. And one on in the works. All genres of prose are welcome. The ones I know the best are fiction, science fiction, and horror. All genres of poetry are welcome.
+						I love stories. While reading and reviewing, I engross myself in your world to gain a deep understanding of the story and your voice. My suggestions are always to try to pull the best from you. Never to erase your voice or story. My goal is to work in tandem with you.
+						<br/>
+						<br/>
+						Employing my minor in creative writing and eight years of editing experience, I help you develop your stories into ones you can love more. I’ve provided editing services for five published novels. And one on in the works. All genres of prose are welcome. The ones I know the best are fiction, science fiction, and horror. All genres of poetry are welcome.</p>
 
-						<br/>
-						<br/>
 						<h3 id="content">Author's I've worked with:</h3>
 						<a href="https://chrisgrooms.com" target="_blank" rel="noopener">Chris Grooms</a>
 						<details>
 						<summary>Recommendation</summary>
 						<p>
-						to be inputted
+						"I have relied on Samuel Grooms for developmental editing on six novels and will continue collaborating with him on future writing projects. Samuel listens, and his easygoing personality ensures focused and effective conversations. It fascinates me to see how completely he can engage with the material. Because of this talent, Samuel can offer comprehensive suggestions that make the story stronger. His quick wit creates more engaging dialogue. Samuel’s attention to detail uncovers plot gaps and guides the writer through fixing those issues. He studies the character’s traits and quirks carefully to make sure the author remains faithful to their creation."
 						</p>
 						</details>
 						<a href="https://sirrahmedeiros.com" target="_blank" rel="noopener">Sirrah Medeiros</a>
